@@ -674,7 +674,7 @@
         "uuid": "6a22142a-0a1c-422a-8fa2-3ae5d7a30893"
       }
     ],
-    "used_designators": "LED1-44,S1-126,D1-126,U1-3,H1,J1",
+    "used_designators": "C1-44,LED1-44,S1-126,D1-126,U1-3,SW1-2,H1,J1,#PWR1,R1-4",
     "variants": []
   },
   "sheets": [

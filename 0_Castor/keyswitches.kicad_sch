@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "5ca14377-0517-405a-9712-811fca01c968")
+	(uuid "d903aacf-33ed-4c5c-b284-3f5622b04422")
 	(paper "A4")
 	(lib_symbols
 		(symbol "ScottoKeebs:Placeholder_Diode"
@@ -7092,7 +7092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 			(at 59.69 120.65 0)
 			(hide yes)
 			(show_name no)
