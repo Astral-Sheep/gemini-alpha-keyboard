@@ -479,7 +479,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -674,7 +674,7 @@
         "uuid": "6a22142a-0a1c-422a-8fa2-3ae5d7a30893"
       }
     ],
-    "used_designators": "C1-44,LED1-44,S1-126,D1-126,U1-3,SW1-2,H1,J1,#PWR1,R1-4",
+    "used_designators": "C1-45,LED1-56,S1-126,D1-126,U1-4,SW1-3,H1,J1,#PWR1-103,R1-18,NULL1-2",
     "variants": []
   },
   "sheets": [
@@ -687,7 +687,7 @@
       "Keyswitches"
     ],
     [
-      "724bce6e-1fd7-45ca-b442-0a08c0a7c451",
+      "8820b80f-7246-405a-908a-23761de05f06",
       "LEDs"
     ]
   ],

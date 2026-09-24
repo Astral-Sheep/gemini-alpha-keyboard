@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "d903aacf-33ed-4c5c-b284-3f5622b04422")
-	(paper "A4")
+	(paper "User" 152.4 215.9)
 	(lib_symbols
 		(symbol "ScottoKeebs:Placeholder_Diode"
 			(pin_numbers
@@ -364,422 +364,422 @@
 		)
 	)
 	(junction
-		(at 93.98 129.54)
+		(at 69.85 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0258b72a-e4de-42a4-bd18-b2950cfe2a56")
 	)
 	(junction
-		(at 87.63 52.07)
+		(at 63.5 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02780c5e-f459-4591-af76-a60036bc0186")
 	)
 	(junction
-		(at 113.03 68.58)
+		(at 88.9 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02e0c980-0db3-452b-bd95-5f8027081851")
 	)
 	(junction
-		(at 132.08 96.52)
+		(at 107.95 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03edccd0-b718-461b-9c1a-affc6d4ff27d")
 	)
 	(junction
-		(at 81.28 63.5)
+		(at 57.15 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c76f99c-7d0d-443f-bdbf-6a285454c482")
 	)
 	(junction
-		(at 125.73 85.09)
+		(at 101.6 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d2c17c4-9595-4053-ac0c-2562a7c03c2b")
 	)
 	(junction
-		(at 68.58 146.05)
+		(at 44.45 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1467e2e7-1e7b-469f-b155-9567a541a15a")
 	)
 	(junction
-		(at 87.63 85.09)
+		(at 63.5 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "18e3fb31-3d18-4b52-95c9-b0ab6dbc368e")
 	)
 	(junction
-		(at 125.73 52.07)
+		(at 101.6 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b8f5edc-de9e-4a7f-9693-81f56844e5cd")
 	)
 	(junction
-		(at 119.38 96.52)
+		(at 95.25 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d12950f-f253-4b23-b567-d9c9f05c3fd3")
 	)
 	(junction
-		(at 106.68 129.54)
+		(at 82.55 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "237aaf5d-5c6d-4806-aa72-c99051a57ab8")
 	)
 	(junction
-		(at 74.93 52.07)
+		(at 50.8 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2625fae3-c0df-42b8-bae2-f776ee9e3fd3")
 	)
 	(junction
-		(at 100.33 118.11)
+		(at 76.2 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "379a031e-ee9d-4749-b92e-072b68327adc")
 	)
 	(junction
-		(at 119.38 129.54)
+		(at 95.25 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "379a0fd9-161c-4fda-9d82-3472a047e01e")
 	)
 	(junction
-		(at 106.68 63.5)
+		(at 82.55 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "396b6253-3311-4747-a08c-312c4f4185b0")
 	)
 	(junction
-		(at 132.08 129.54)
+		(at 107.95 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39ed1cfb-c542-4593-847f-4f09104b27b1")
 	)
 	(junction
-		(at 87.63 118.11)
+		(at 63.5 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b28b802-8b07-4191-81b0-f6adc8290590")
 	)
 	(junction
-		(at 49.53 101.6)
+		(at 25.4 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3dbb54f5-b783-43cf-b290-3c2e6bb93b72")
 	)
 	(junction
-		(at 119.38 80.01)
+		(at 95.25 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "439a0e95-2cc5-45ff-ba77-db0f9b2eb5d4")
 	)
 	(junction
-		(at 113.03 118.11)
+		(at 88.9 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "490a4033-b798-4b10-8c76-150f970a07b8")
 	)
 	(junction
-		(at 106.68 113.03)
+		(at 82.55 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4bf5676c-fb3a-4935-bd0e-e1b709051ad3")
 	)
 	(junction
-		(at 132.08 80.01)
+		(at 107.95 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d9fa779-b7c7-41a3-92dc-b20d3a3a646d")
 	)
 	(junction
-		(at 100.33 85.09)
+		(at 76.2 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e969e94-435e-4e7f-a129-f9da1b1b599b")
 	)
 	(junction
-		(at 63.5 68.58)
+		(at 39.37 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50589de3-a6f8-4a28-b463-652175647117")
 	)
 	(junction
-		(at 87.63 101.6)
+		(at 63.5 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51b748cf-2e22-441e-9861-5a72ffe03e33")
 	)
 	(junction
-		(at 93.98 96.52)
+		(at 69.85 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51dfd7b0-1377-431e-8f56-d4797faf17af")
 	)
 	(junction
-		(at 119.38 162.56)
+		(at 95.25 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "554bf173-dd08-469f-b171-960566970d4d")
 	)
 	(junction
-		(at 119.38 63.5)
+		(at 95.25 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55d008c0-936b-497f-b824-efd20ea75267")
 	)
 	(junction
-		(at 74.93 68.58)
+		(at 50.8 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c9a0d29-4adf-4eaa-bc1a-dfa07185aec3")
 	)
 	(junction
-		(at 74.93 118.11)
+		(at 50.8 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "634f0ddd-214d-41a8-942a-d7505bb02ef6")
 	)
 	(junction
-		(at 125.73 68.58)
+		(at 101.6 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69b51c35-fd6b-4315-aa99-1cf5aebae4a4")
 	)
 	(junction
-		(at 93.98 146.05)
+		(at 69.85 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a1e3834-38e3-4e7e-ba79-7898f2396374")
 	)
 	(junction
-		(at 125.73 118.11)
+		(at 101.6 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d794bd5-ca5a-49ef-a501-3138433d323c")
 	)
 	(junction
-		(at 81.28 146.05)
+		(at 57.15 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ff6bb00-769f-4c9f-9e13-66c5abbbe7de")
 	)
 	(junction
-		(at 74.93 85.09)
+		(at 50.8 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "705a387c-73c0-439a-b852-6e7b5d83a24c")
 	)
 	(junction
-		(at 119.38 113.03)
+		(at 95.25 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "776037aa-9385-420e-bebf-ab079e0332b5")
 	)
 	(junction
-		(at 49.53 85.09)
+		(at 25.4 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7926a323-4525-4eb3-bf47-103cc9352734")
 	)
 	(junction
-		(at 100.33 68.58)
+		(at 76.2 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b6bea47-536f-4304-9569-a4f0e9c5813b")
 	)
 	(junction
-		(at 132.08 113.03)
+		(at 107.95 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b7245bc-a74f-4914-8036-6b8c5f8d2169")
 	)
 	(junction
-		(at 125.73 151.13)
+		(at 101.6 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c497ed6-feba-446e-90be-abf68f0a1677")
 	)
 	(junction
-		(at 132.08 63.5)
+		(at 107.95 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a6b09e3-83bc-451f-ae98-363cf678516b")
 	)
 	(junction
-		(at 49.53 68.58)
+		(at 25.4 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "922649fb-42ef-4178-b750-617e1c3d496f")
 	)
 	(junction
-		(at 93.98 113.03)
+		(at 69.85 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "940dfc7e-859f-4928-9665-7ea9d33bff94")
 	)
 	(junction
-		(at 74.93 101.6)
+		(at 50.8 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94989676-c653-45dc-a940-5c90b89bd68d")
 	)
 	(junction
-		(at 100.33 151.13)
+		(at 76.2 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "951acbe6-b5d3-4251-852f-8fff0a2a9f1d")
 	)
 	(junction
-		(at 113.03 151.13)
+		(at 88.9 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98ec2761-c53e-416a-a0d0-44069325c790")
 	)
 	(junction
-		(at 106.68 96.52)
+		(at 82.55 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a839d07-39fc-4daf-b42b-b4c30c0b0730")
 	)
 	(junction
-		(at 87.63 68.58)
+		(at 63.5 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a49d88ad-c7d4-43cc-b1c4-1e3c0a6eea83")
 	)
 	(junction
-		(at 132.08 162.56)
+		(at 107.95 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b060b3cb-3b16-44e1-acd8-afae5344d293")
 	)
 	(junction
-		(at 81.28 129.54)
+		(at 57.15 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b47f1eca-c04d-483a-ad86-f5b77723f566")
 	)
 	(junction
-		(at 68.58 80.01)
+		(at 44.45 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b987bf19-311e-45d6-9e60-1556512013e6")
 	)
 	(junction
-		(at 81.28 80.01)
+		(at 57.15 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbce5dea-2252-46f1-b4f5-9f0a1dd55875")
 	)
 	(junction
-		(at 125.73 101.6)
+		(at 101.6 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc0e5410-cac3-4761-8dde-ee16ec658d99")
 	)
 	(junction
-		(at 81.28 96.52)
+		(at 57.15 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be0f9f67-468c-46ea-b0d3-77c63418d40c")
 	)
 	(junction
-		(at 100.33 52.07)
+		(at 76.2 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf7a96c3-28c4-4e7a-a516-d7d675739bc0")
 	)
 	(junction
-		(at 81.28 113.03)
+		(at 57.15 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c16759e4-6ae3-4a0d-af8c-358caf1677b8")
 	)
 	(junction
-		(at 100.33 101.6)
+		(at 76.2 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c96b0643-2c57-4260-856e-b80e33551c84")
 	)
 	(junction
-		(at 106.68 80.01)
+		(at 82.55 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb3fb5bb-6232-484d-a6fe-cfb4b5c31e18")
 	)
 	(junction
-		(at 93.98 80.01)
+		(at 69.85 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce9686f9-14a4-4713-bfd3-5c206af9fb76")
 	)
 	(junction
-		(at 49.53 52.07)
+		(at 25.4 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d65be031-0b85-42a9-9682-815cf46b6d1a")
 	)
 	(junction
-		(at 49.53 118.11)
+		(at 25.4 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7a18db7-cdba-4d1c-8d82-ededad5fd0f1")
 	)
 	(junction
-		(at 119.38 146.05)
+		(at 95.25 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "daaf72a6-b405-48ba-aeca-02bd43158aaa")
 	)
 	(junction
-		(at 132.08 179.07)
+		(at 107.95 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd480475-561e-43ab-b4a0-30bd55c1cad3")
 	)
 	(junction
-		(at 113.03 101.6)
+		(at 88.9 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e356fadb-69fd-4f15-8f55-dbe18f2b14b1")
 	)
 	(junction
-		(at 113.03 52.07)
+		(at 88.9 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8c5e204-7029-4e27-88ae-e65a7d3373a9")
 	)
 	(junction
-		(at 113.03 85.09)
+		(at 88.9 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea3500cd-8ff2-4374-a800-18919b6c1de4")
 	)
 	(junction
-		(at 93.98 63.5)
+		(at 69.85 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "faacbfbd-ac97-474e-a2d3-ffeca2644d94")
 	)
 	(junction
-		(at 113.03 134.62)
+		(at 88.9 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe664327-a624-4a4d-860b-19f26f6cbdd1")
 	)
 	(junction
-		(at 119.38 179.07)
+		(at 95.25 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffc9f601-aad0-444b-a91e-505bbb442498")
 	)
 	(wire
 		(pts
-			(xy 87.63 52.07) (xy 87.63 49.53)
+			(xy 63.5 34.29) (xy 63.5 31.75)
 		)
 		(stroke
 			(width 0)
@@ -789,7 +789,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 85.09) (xy 87.63 68.58)
+			(xy 63.5 67.31) (xy 63.5 50.8)
 		)
 		(stroke
 			(width 0)
@@ -799,7 +799,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 128.27) (xy 81.28 129.54)
+			(xy 57.15 110.49) (xy 57.15 111.76)
 		)
 		(stroke
 			(width 0)
@@ -809,7 +809,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 111.76) (xy 119.38 113.03)
+			(xy 95.25 93.98) (xy 95.25 95.25)
 		)
 		(stroke
 			(width 0)
@@ -819,7 +819,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 62.23) (xy 93.98 63.5)
+			(xy 69.85 44.45) (xy 69.85 45.72)
 		)
 		(stroke
 			(width 0)
@@ -829,7 +829,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 162.56) (xy 132.08 161.29)
+			(xy 107.95 144.78) (xy 107.95 143.51)
 		)
 		(stroke
 			(width 0)
@@ -839,7 +839,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 63.5) (xy 132.08 63.5)
+			(xy 95.25 45.72) (xy 107.95 45.72)
 		)
 		(stroke
 			(width 0)
@@ -849,7 +849,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 68.58) (xy 76.2 68.58)
+			(xy 50.8 50.8) (xy 52.07 50.8)
 		)
 		(stroke
 			(width 0)
@@ -859,7 +859,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 111.76) (xy 81.28 113.03)
+			(xy 57.15 93.98) (xy 57.15 95.25)
 		)
 		(stroke
 			(width 0)
@@ -869,7 +869,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 129.54) (xy 119.38 129.54)
+			(xy 107.95 111.76) (xy 95.25 111.76)
 		)
 		(stroke
 			(width 0)
@@ -879,7 +879,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 68.58) (xy 101.6 68.58)
+			(xy 76.2 50.8) (xy 77.47 50.8)
 		)
 		(stroke
 			(width 0)
@@ -889,7 +889,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 68.58) (xy 63.5 134.62)
+			(xy 39.37 50.8) (xy 39.37 116.84)
 		)
 		(stroke
 			(width 0)
@@ -899,7 +899,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 101.6) (xy 88.9 101.6)
+			(xy 63.5 83.82) (xy 64.77 83.82)
 		)
 		(stroke
 			(width 0)
@@ -909,7 +909,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 68.58) (xy 125.73 85.09)
+			(xy 101.6 50.8) (xy 101.6 67.31)
 		)
 		(stroke
 			(width 0)
@@ -919,7 +919,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 111.76) (xy 93.98 113.03)
+			(xy 69.85 93.98) (xy 69.85 95.25)
 		)
 		(stroke
 			(width 0)
@@ -929,7 +929,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 146.05) (xy 55.88 146.05)
+			(xy 44.45 128.27) (xy 31.75 128.27)
 		)
 		(stroke
 			(width 0)
@@ -939,7 +939,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 144.78) (xy 68.58 146.05)
+			(xy 44.45 127) (xy 44.45 128.27)
 		)
 		(stroke
 			(width 0)
@@ -949,7 +949,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 134.62) (xy 76.2 134.62)
+			(xy 50.8 116.84) (xy 52.07 116.84)
 		)
 		(stroke
 			(width 0)
@@ -959,7 +959,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 85.09) (xy 127 85.09)
+			(xy 101.6 67.31) (xy 102.87 67.31)
 		)
 		(stroke
 			(width 0)
@@ -969,7 +969,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 80.01) (xy 132.08 78.74)
+			(xy 107.95 62.23) (xy 107.95 60.96)
 		)
 		(stroke
 			(width 0)
@@ -979,7 +979,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 52.07) (xy 49.53 68.58)
+			(xy 25.4 34.29) (xy 25.4 50.8)
 		)
 		(stroke
 			(width 0)
@@ -989,7 +989,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 62.23) (xy 81.28 63.5)
+			(xy 57.15 44.45) (xy 57.15 45.72)
 		)
 		(stroke
 			(width 0)
@@ -999,7 +999,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 118.11) (xy 87.63 101.6)
+			(xy 63.5 100.33) (xy 63.5 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1009,7 +1009,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 52.07) (xy 57.15 52.07)
+			(xy 25.4 34.29) (xy 33.02 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1019,7 +1019,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 118.11) (xy 127 118.11)
+			(xy 101.6 100.33) (xy 102.87 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1029,7 +1029,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 128.27) (xy 93.98 129.54)
+			(xy 69.85 110.49) (xy 69.85 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1039,7 +1039,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 85.09) (xy 57.15 85.09)
+			(xy 25.4 67.31) (xy 33.02 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1049,7 +1049,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 68.58) (xy 74.93 85.09)
+			(xy 50.8 50.8) (xy 50.8 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1059,7 +1059,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 85.09) (xy 101.6 85.09)
+			(xy 76.2 67.31) (xy 77.47 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1069,7 +1069,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 129.54) (xy 81.28 129.54)
+			(xy 69.85 111.76) (xy 57.15 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1079,7 +1079,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 52.07) (xy 88.9 52.07)
+			(xy 63.5 34.29) (xy 64.77 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1089,7 +1089,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 95.25) (xy 119.38 96.52)
+			(xy 95.25 77.47) (xy 95.25 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1099,7 +1099,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 49.53) (xy 63.5 68.58)
+			(xy 39.37 31.75) (xy 39.37 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1109,7 +1109,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 101.6) (xy 100.33 118.11)
+			(xy 76.2 83.82) (xy 76.2 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1119,7 +1119,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 162.56) (xy 132.08 162.56)
+			(xy 110.49 144.78) (xy 107.95 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1129,7 +1129,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 63.5) (xy 119.38 63.5)
+			(xy 82.55 45.72) (xy 95.25 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1139,7 +1139,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 134.62) (xy 87.63 134.62)
+			(xy 64.77 116.84) (xy 63.5 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1149,7 +1149,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 134.62) (xy 113.03 151.13)
+			(xy 88.9 116.84) (xy 88.9 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1159,7 +1159,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 52.07) (xy 74.93 68.58)
+			(xy 50.8 34.29) (xy 50.8 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1169,7 +1169,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 113.03) (xy 81.28 113.03)
+			(xy 38.1 95.25) (xy 57.15 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1179,7 +1179,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 146.05) (xy 68.58 146.05)
+			(xy 57.15 128.27) (xy 44.45 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1189,7 +1189,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 113.03) (xy 106.68 113.03)
+			(xy 69.85 95.25) (xy 82.55 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1199,7 +1199,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 63.5) (xy 132.08 63.5)
+			(xy 110.49 45.72) (xy 107.95 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1209,7 +1209,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 101.6) (xy 114.3 101.6)
+			(xy 88.9 83.82) (xy 90.17 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1219,7 +1219,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 68.58) (xy 114.3 68.58)
+			(xy 88.9 50.8) (xy 90.17 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1229,7 +1229,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 49.53) (xy 74.93 52.07)
+			(xy 50.8 31.75) (xy 50.8 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1239,7 +1239,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 118.11) (xy 125.73 151.13)
+			(xy 101.6 100.33) (xy 101.6 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1249,7 +1249,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 129.54) (xy 62.23 128.27)
+			(xy 38.1 111.76) (xy 38.1 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1259,7 +1259,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 144.78) (xy 55.88 146.05)
+			(xy 31.75 127) (xy 31.75 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1269,7 +1269,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 96.52) (xy 132.08 96.52)
+			(xy 110.49 78.74) (xy 107.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1279,7 +1279,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 63.5) (xy 132.08 62.23)
+			(xy 107.95 45.72) (xy 107.95 44.45)
 		)
 		(stroke
 			(width 0)
@@ -1289,7 +1289,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 49.53) (xy 100.33 52.07)
+			(xy 76.2 31.75) (xy 76.2 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1299,7 +1299,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 68.58) (xy 88.9 68.58)
+			(xy 63.5 50.8) (xy 64.77 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1309,7 +1309,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 146.05) (xy 93.98 146.05)
+			(xy 95.25 128.27) (xy 69.85 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1319,7 +1319,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 113.03) (xy 93.98 113.03)
+			(xy 57.15 95.25) (xy 69.85 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1329,7 +1329,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 144.78) (xy 93.98 146.05)
+			(xy 69.85 127) (xy 69.85 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1339,7 +1339,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 62.23) (xy 119.38 63.5)
+			(xy 95.25 44.45) (xy 95.25 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1349,7 +1349,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 161.29) (xy 119.38 162.56)
+			(xy 95.25 143.51) (xy 95.25 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1359,7 +1359,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 179.07) (xy 134.62 179.07)
+			(xy 107.95 161.29) (xy 110.49 161.29)
 		)
 		(stroke
 			(width 0)
@@ -1369,7 +1369,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 78.74) (xy 81.28 80.01)
+			(xy 57.15 60.96) (xy 57.15 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1379,7 +1379,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 80.01) (xy 106.68 80.01)
+			(xy 69.85 62.23) (xy 82.55 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1389,7 +1389,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 85.09) (xy 88.9 85.09)
+			(xy 63.5 67.31) (xy 64.77 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1399,7 +1399,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 80.01) (xy 93.98 80.01)
+			(xy 57.15 62.23) (xy 69.85 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1409,7 +1409,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 68.58) (xy 100.33 85.09)
+			(xy 76.2 50.8) (xy 76.2 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1419,7 +1419,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 52.07) (xy 100.33 68.58)
+			(xy 76.2 34.29) (xy 76.2 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1429,7 +1429,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 49.53) (xy 125.73 52.07)
+			(xy 101.6 31.75) (xy 101.6 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1439,7 +1439,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 101.6) (xy 87.63 85.09)
+			(xy 63.5 83.82) (xy 63.5 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1449,7 +1449,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 134.62) (xy 87.63 118.11)
+			(xy 63.5 116.84) (xy 63.5 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1459,7 +1459,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 101.6) (xy 76.2 101.6)
+			(xy 50.8 83.82) (xy 52.07 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1469,7 +1469,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 85.09) (xy 100.33 101.6)
+			(xy 76.2 67.31) (xy 76.2 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1479,7 +1479,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 95.25) (xy 106.68 96.52)
+			(xy 82.55 77.47) (xy 82.55 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1489,7 +1489,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 101.6) (xy 49.53 101.6)
+			(xy 33.02 83.82) (xy 25.4 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1499,7 +1499,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 96.52) (xy 93.98 96.52)
+			(xy 57.15 78.74) (xy 69.85 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1509,7 +1509,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 118.11) (xy 74.93 134.62)
+			(xy 50.8 100.33) (xy 50.8 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1519,7 +1519,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 96.52) (xy 132.08 95.25)
+			(xy 107.95 78.74) (xy 107.95 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1529,7 +1529,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 146.05) (xy 119.38 144.78)
+			(xy 95.25 128.27) (xy 95.25 127)
 		)
 		(stroke
 			(width 0)
@@ -1539,7 +1539,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 162.56) (xy 132.08 162.56)
+			(xy 95.25 144.78) (xy 107.95 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1549,7 +1549,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 80.01) (xy 132.08 80.01)
+			(xy 95.25 62.23) (xy 107.95 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1559,7 +1559,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 63.5) (xy 81.28 63.5)
+			(xy 38.1 45.72) (xy 57.15 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1569,7 +1569,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 161.29) (xy 106.68 162.56)
+			(xy 82.55 143.51) (xy 82.55 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1579,7 +1579,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 177.8) (xy 119.38 179.07)
+			(xy 95.25 160.02) (xy 95.25 161.29)
 		)
 		(stroke
 			(width 0)
@@ -1589,7 +1589,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 151.13) (xy 114.3 151.13)
+			(xy 88.9 133.35) (xy 90.17 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1599,7 +1599,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 151.13) (xy 100.33 167.64)
+			(xy 76.2 133.35) (xy 76.2 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1609,7 +1609,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 167.64) (xy 101.6 167.64)
+			(xy 76.2 149.86) (xy 77.47 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1619,7 +1619,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 128.27) (xy 106.68 129.54)
+			(xy 82.55 110.49) (xy 82.55 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1629,7 +1629,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 68.58) (xy 49.53 85.09)
+			(xy 25.4 50.8) (xy 25.4 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1639,7 +1639,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 151.13) (xy 101.6 151.13)
+			(xy 76.2 133.35) (xy 77.47 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1649,7 +1649,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 113.03) (xy 132.08 113.03)
+			(xy 95.25 95.25) (xy 107.95 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1659,7 +1659,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 68.58) (xy 113.03 85.09)
+			(xy 88.9 50.8) (xy 88.9 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1669,7 +1669,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 151.13) (xy 125.73 167.64)
+			(xy 101.6 133.35) (xy 101.6 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1679,7 +1679,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 80.01) (xy 119.38 80.01)
+			(xy 82.55 62.23) (xy 95.25 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1689,7 +1689,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 101.6) (xy 113.03 118.11)
+			(xy 88.9 83.82) (xy 88.9 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1699,7 +1699,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 52.07) (xy 113.03 68.58)
+			(xy 88.9 34.29) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1709,7 +1709,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 85.09) (xy 49.53 101.6)
+			(xy 25.4 67.31) (xy 25.4 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1719,7 +1719,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 95.25) (xy 62.23 96.52)
+			(xy 38.1 77.47) (xy 38.1 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1729,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 78.74) (xy 93.98 80.01)
+			(xy 69.85 60.96) (xy 69.85 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1739,7 +1739,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 118.11) (xy 113.03 134.62)
+			(xy 88.9 100.33) (xy 88.9 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1749,7 +1749,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 63.5) (xy 106.68 63.5)
+			(xy 69.85 45.72) (xy 82.55 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1759,7 +1759,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 52.07) (xy 127 52.07)
+			(xy 101.6 34.29) (xy 102.87 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1769,7 +1769,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 52.07) (xy 76.2 52.07)
+			(xy 50.8 34.29) (xy 52.07 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1779,7 +1779,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 129.54) (xy 62.23 129.54)
+			(xy 57.15 111.76) (xy 38.1 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1789,7 +1789,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 68.58) (xy 50.8 68.58)
+			(xy 25.4 50.8) (xy 26.67 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1799,7 +1799,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 129.54) (xy 132.08 129.54)
+			(xy 110.49 111.76) (xy 107.95 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1809,7 +1809,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 113.03) (xy 119.38 113.03)
+			(xy 82.55 95.25) (xy 95.25 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1819,7 +1819,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 96.52) (xy 119.38 96.52)
+			(xy 82.55 78.74) (xy 95.25 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1829,7 +1829,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 118.11) (xy 100.33 151.13)
+			(xy 76.2 100.33) (xy 76.2 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1839,7 +1839,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 101.6) (xy 49.53 118.11)
+			(xy 25.4 83.82) (xy 25.4 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1849,7 +1849,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 80.01) (xy 134.62 80.01)
+			(xy 107.95 62.23) (xy 110.49 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1859,7 +1859,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 49.53) (xy 113.03 52.07)
+			(xy 88.9 31.75) (xy 88.9 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1869,7 +1869,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 62.23) (xy 106.68 63.5)
+			(xy 82.55 44.45) (xy 82.55 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1879,7 +1879,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 118.11) (xy 88.9 118.11)
+			(xy 63.5 100.33) (xy 64.77 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1889,7 +1889,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 134.62) (xy 114.3 134.62)
+			(xy 88.9 116.84) (xy 90.17 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1899,7 +1899,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 68.58) (xy 87.63 52.07)
+			(xy 63.5 50.8) (xy 63.5 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1909,7 +1909,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 49.53) (xy 49.53 52.07)
+			(xy 25.4 31.75) (xy 25.4 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1919,7 +1919,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 96.52) (xy 132.08 96.52)
+			(xy 95.25 78.74) (xy 107.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1929,7 +1929,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 95.25) (xy 93.98 96.52)
+			(xy 69.85 77.47) (xy 69.85 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1939,7 +1939,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 162.56) (xy 119.38 162.56)
+			(xy 82.55 144.78) (xy 95.25 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1949,7 +1949,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 146.05) (xy 119.38 146.05)
+			(xy 110.49 128.27) (xy 95.25 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1959,7 +1959,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 144.78) (xy 81.28 146.05)
+			(xy 57.15 127) (xy 57.15 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1969,7 +1969,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 118.11) (xy 101.6 118.11)
+			(xy 76.2 100.33) (xy 77.47 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1979,7 +1979,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 78.74) (xy 119.38 80.01)
+			(xy 95.25 60.96) (xy 95.25 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1989,7 +1989,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 80.01) (xy 81.28 80.01)
+			(xy 44.45 62.23) (xy 57.15 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1999,7 +1999,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 85.09) (xy 74.93 101.6)
+			(xy 50.8 67.31) (xy 50.8 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2009,7 +2009,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 63.5) (xy 93.98 63.5)
+			(xy 57.15 45.72) (xy 69.85 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2019,7 +2019,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 78.74) (xy 106.68 80.01)
+			(xy 82.55 60.96) (xy 82.55 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2029,7 +2029,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 96.52) (xy 81.28 96.52)
+			(xy 38.1 78.74) (xy 57.15 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2039,7 +2039,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 177.8) (xy 106.68 179.07)
+			(xy 82.55 160.02) (xy 82.55 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2049,7 +2049,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 101.6) (xy 125.73 118.11)
+			(xy 101.6 83.82) (xy 101.6 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2059,7 +2059,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 85.09) (xy 76.2 85.09)
+			(xy 50.8 67.31) (xy 52.07 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2069,7 +2069,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 95.25) (xy 81.28 96.52)
+			(xy 57.15 77.47) (xy 57.15 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2079,7 +2079,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 78.74) (xy 68.58 80.01)
+			(xy 44.45 60.96) (xy 44.45 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2089,7 +2089,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 52.07) (xy 101.6 52.07)
+			(xy 76.2 34.29) (xy 77.47 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2099,7 +2099,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 179.07) (xy 119.38 179.07)
+			(xy 82.55 161.29) (xy 95.25 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2109,7 +2109,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 111.76) (xy 106.68 113.03)
+			(xy 82.55 93.98) (xy 82.55 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2119,7 +2119,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 179.07) (xy 132.08 177.8)
+			(xy 107.95 161.29) (xy 107.95 160.02)
 		)
 		(stroke
 			(width 0)
@@ -2129,7 +2129,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 128.27) (xy 119.38 129.54)
+			(xy 95.25 110.49) (xy 95.25 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2139,7 +2139,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 118.11) (xy 49.53 134.62)
+			(xy 25.4 100.33) (xy 25.4 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2149,7 +2149,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 179.07) (xy 132.08 179.07)
+			(xy 95.25 161.29) (xy 107.95 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2159,7 +2159,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 167.64) (xy 127 167.64)
+			(xy 101.6 149.86) (xy 102.87 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2169,7 +2169,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 118.11) (xy 76.2 118.11)
+			(xy 50.8 100.33) (xy 52.07 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2179,7 +2179,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 129.54) (xy 93.98 129.54)
+			(xy 82.55 111.76) (xy 69.85 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2189,7 +2189,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 118.11) (xy 57.15 118.11)
+			(xy 25.4 100.33) (xy 33.02 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2199,7 +2199,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 134.62) (xy 50.8 134.62)
+			(xy 25.4 116.84) (xy 26.67 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2209,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 62.23) (xy 62.23 63.5)
+			(xy 38.1 44.45) (xy 38.1 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2219,7 +2219,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 101.6) (xy 101.6 101.6)
+			(xy 76.2 83.82) (xy 77.47 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2229,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 151.13) (xy 127 151.13)
+			(xy 101.6 133.35) (xy 102.87 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2239,7 +2239,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 167.64) (xy 114.3 167.64)
+			(xy 88.9 149.86) (xy 90.17 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2249,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 118.11) (xy 114.3 118.11)
+			(xy 88.9 100.33) (xy 90.17 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2259,7 +2259,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 52.07) (xy 125.73 68.58)
+			(xy 101.6 34.29) (xy 101.6 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2269,7 +2269,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 85.09) (xy 113.03 101.6)
+			(xy 88.9 67.31) (xy 88.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2279,7 +2279,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 85.09) (xy 125.73 101.6)
+			(xy 101.6 67.31) (xy 101.6 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2289,7 +2289,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 68.58) (xy 127 68.58)
+			(xy 101.6 50.8) (xy 102.87 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2299,7 +2299,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 146.05) (xy 81.28 146.05)
+			(xy 69.85 128.27) (xy 57.15 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2309,7 +2309,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 113.03) (xy 132.08 111.76)
+			(xy 107.95 95.25) (xy 107.95 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2319,7 +2319,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 129.54) (xy 106.68 129.54)
+			(xy 95.25 111.76) (xy 82.55 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2329,7 +2329,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 96.52) (xy 106.68 96.52)
+			(xy 69.85 78.74) (xy 82.55 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2339,7 +2339,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 113.03) (xy 134.62 113.03)
+			(xy 107.95 95.25) (xy 110.49 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2349,7 +2349,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 129.54) (xy 132.08 128.27)
+			(xy 107.95 111.76) (xy 107.95 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2359,7 +2359,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 78.74) (xy 55.88 80.01)
+			(xy 31.75 60.96) (xy 31.75 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2369,7 +2369,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 151.13) (xy 113.03 167.64)
+			(xy 88.9 133.35) (xy 88.9 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2379,7 +2379,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 111.76) (xy 62.23 113.03)
+			(xy 38.1 93.98) (xy 38.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2389,7 +2389,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 85.09) (xy 114.3 85.09)
+			(xy 88.9 67.31) (xy 90.17 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2399,7 +2399,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 52.07) (xy 114.3 52.07)
+			(xy 88.9 34.29) (xy 90.17 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2409,7 +2409,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 101.6) (xy 127 101.6)
+			(xy 101.6 83.82) (xy 102.87 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2419,7 +2419,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 101.6) (xy 74.93 118.11)
+			(xy 50.8 83.82) (xy 50.8 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2429,7 +2429,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 80.01) (xy 68.58 80.01)
+			(xy 31.75 62.23) (xy 44.45 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2439,7 +2439,7 @@
 	)
 	(hierarchical_label "Row 3"
 		(shape input)
-		(at 134.62 113.03 0)
+		(at 110.49 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2450,7 +2450,7 @@
 	)
 	(hierarchical_label "Row 0"
 		(shape input)
-		(at 134.62 63.5 0)
+		(at 110.49 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2461,7 +2461,7 @@
 	)
 	(hierarchical_label "Row 6"
 		(shape input)
-		(at 134.62 162.56 0)
+		(at 110.49 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2472,7 +2472,7 @@
 	)
 	(hierarchical_label "Column 1"
 		(shape input)
-		(at 63.5 49.53 90)
+		(at 39.37 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2483,7 +2483,7 @@
 	)
 	(hierarchical_label "Row 5"
 		(shape input)
-		(at 134.62 146.05 0)
+		(at 110.49 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2494,7 +2494,7 @@
 	)
 	(hierarchical_label "Row 4"
 		(shape input)
-		(at 134.62 129.54 0)
+		(at 110.49 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2505,7 +2505,7 @@
 	)
 	(hierarchical_label "Column 4"
 		(shape input)
-		(at 100.33 49.53 90)
+		(at 76.2 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2516,7 +2516,7 @@
 	)
 	(hierarchical_label "Row 1"
 		(shape input)
-		(at 134.62 80.01 0)
+		(at 110.49 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2527,7 +2527,7 @@
 	)
 	(hierarchical_label "Row 2"
 		(shape input)
-		(at 134.62 96.52 0)
+		(at 110.49 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2538,7 +2538,7 @@
 	)
 	(hierarchical_label "Row 7"
 		(shape input)
-		(at 134.62 179.07 0)
+		(at 110.49 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2549,7 +2549,7 @@
 	)
 	(hierarchical_label "Column 0"
 		(shape input)
-		(at 49.53 49.53 90)
+		(at 25.4 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2560,7 +2560,7 @@
 	)
 	(hierarchical_label "Column 6"
 		(shape input)
-		(at 125.73 49.53 90)
+		(at 101.6 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2571,7 +2571,7 @@
 	)
 	(hierarchical_label "Column 2"
 		(shape input)
-		(at 74.93 49.53 90)
+		(at 50.8 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2582,7 +2582,7 @@
 	)
 	(hierarchical_label "Column 5"
 		(shape input)
-		(at 113.03 49.53 90)
+		(at 88.9 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2593,7 +2593,7 @@
 	)
 	(hierarchical_label "Column 3"
 		(shape input)
-		(at 87.63 49.53 90)
+		(at 63.5 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2604,7 +2604,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 68.58 76.2 0)
+		(at 44.45 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2614,8 +2614,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02ea57e6-a2ca-4a49-98ec-4946814e73e7")
-		(property "Reference" "D49"
-			(at 68.43 75.134 0)
+		(property "Reference" "D8"
+			(at 44.3 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2628,7 +2628,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 71.12 76.2 90)
+			(at 46.99 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2638,7 +2638,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 68.58 76.2 90)
+			(at 44.45 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2649,7 +2649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 76.2 90)
+			(at 44.45 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2660,7 +2660,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 76.2 90)
+			(at 48.26 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2679,7 +2679,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D49")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2687,7 +2687,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 109.22 0)
+		(at 57.15 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2697,8 +2697,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "044d5c09-a58b-43e4-b109-b4ee0f70806e")
-		(property "Reference" "D54"
-			(at 81.13 108.154 0)
+		(property "Reference" "D21"
+			(at 57 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2711,7 +2711,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 109.22 90)
+			(at 59.69 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2721,7 +2721,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 109.22 90)
+			(at 57.15 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2732,7 +2732,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 109.22 90)
+			(at 57.15 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2743,7 +2743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 109.22 90)
+			(at 60.96 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2762,7 +2762,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D54")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -2770,7 +2770,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 120.65 0)
+		(at 67.31 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2780,8 +2780,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0482721e-f5ac-40b1-b416-d006970bbfc7")
-		(property "Reference" "S61"
-			(at 91.44 120.65 0)
+		(property "Reference" "S28"
+			(at 67.31 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2793,7 +2793,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 124.46 0)
+			(at 67.31 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 120.65 0)
+			(at 67.31 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2814,7 +2814,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 122.428 0)
+			(at 64.77 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2825,7 +2825,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 120.65 0)
+			(at 67.31 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2844,7 +2844,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S61")
+					(reference "S28")
 					(unit 1)
 				)
 			)
@@ -2852,7 +2852,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 71.12 0)
+		(at 80.01 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2862,8 +2862,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04b8ca29-6a8b-4a0e-8ccc-b9417bf39a30")
-		(property "Reference" "S64"
-			(at 104.14 71.12 0)
+		(property "Reference" "S11"
+			(at 80.01 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2875,7 +2875,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 74.93 0)
+			(at 80.01 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2885,7 +2885,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 71.12 0)
+			(at 80.01 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2896,7 +2896,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 72.898 0)
+			(at 77.47 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2907,7 +2907,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 71.12 0)
+			(at 80.01 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2926,7 +2926,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S64")
+					(reference "S11")
 					(unit 1)
 				)
 			)
@@ -2934,7 +2934,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 76.2 0)
+		(at 95.25 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2944,8 +2944,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bc63dd4-7287-40fd-9367-61485d0c311f")
-		(property "Reference" "D71"
-			(at 119.23 75.134 0)
+		(property "Reference" "D12"
+			(at 95.1 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2958,7 +2958,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 76.2 90)
+			(at 97.79 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2968,7 +2968,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 76.2 90)
+			(at 95.25 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2979,7 +2979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 76.2 90)
+			(at 95.25 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2990,7 +2990,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 76.2 90)
+			(at 99.06 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3009,7 +3009,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D71")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -3017,7 +3017,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 170.18 0)
+		(at 80.01 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3027,8 +3027,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d7e6b4e-ee54-4a18-800e-c8ebbe083a23")
-		(property "Reference" "S69"
-			(at 104.14 170.18 0)
+		(property "Reference" "S40"
+			(at 80.01 152.4 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3040,7 +3040,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 173.99 0)
+			(at 80.01 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3050,7 +3050,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 170.18 0)
+			(at 80.01 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3061,7 +3061,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 171.958 0)
+			(at 77.47 154.178 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3072,7 +3072,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 170.18 0)
+			(at 80.01 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3091,7 +3091,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S69")
+					(reference "S40")
 					(unit 1)
 				)
 			)
@@ -3099,7 +3099,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 125.73 0)
+		(at 95.25 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3109,8 +3109,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f83cdd4-4e54-4887-aa21-ecf9332a6713")
-		(property "Reference" "D74"
-			(at 119.23 124.664 0)
+		(property "Reference" "D30"
+			(at 95.1 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3123,7 +3123,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 125.73 90)
+			(at 97.79 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3133,7 +3133,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 125.73 90)
+			(at 95.25 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3144,7 +3144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 125.73 90)
+			(at 95.25 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3155,7 +3155,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 125.73 90)
+			(at 99.06 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3174,7 +3174,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D74")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -3182,7 +3182,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 62.23 125.73 0)
+		(at 38.1 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3192,8 +3192,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10b2fd2f-cb02-4afe-ba2c-bdaca82ea2f3")
-		(property "Reference" "D48"
-			(at 62.08 124.664 0)
+		(property "Reference" "D26"
+			(at 37.95 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3206,7 +3206,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 64.77 125.73 90)
+			(at 40.64 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3216,7 +3216,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 62.23 125.73 90)
+			(at 38.1 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3227,7 +3227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 125.73 90)
+			(at 38.1 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3238,7 +3238,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 125.73 90)
+			(at 41.91 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3257,7 +3257,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D48")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -3265,7 +3265,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 76.2 0)
+		(at 57.15 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3275,8 +3275,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "113ae129-3b04-4507-9ee9-70bbad576cab")
-		(property "Reference" "D52"
-			(at 81.13 75.134 0)
+		(property "Reference" "D9"
+			(at 57 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3289,7 +3289,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 76.2 90)
+			(at 59.69 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3299,7 +3299,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 76.2 90)
+			(at 57.15 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3310,7 +3310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 76.2 90)
+			(at 57.15 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3321,7 +3321,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 76.2 90)
+			(at 60.96 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3340,7 +3340,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D52")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3348,7 +3348,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 175.26 0)
+		(at 82.55 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3358,8 +3358,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "122eb7d3-d94b-44e6-9097-3aaecbf7a405")
-		(property "Reference" "D69"
-			(at 106.53 174.194 0)
+		(property "Reference" "D40"
+			(at 82.4 156.414 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3372,7 +3372,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 175.26 90)
+			(at 85.09 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3382,7 +3382,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 175.26 90)
+			(at 82.55 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3393,7 +3393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 175.26 90)
+			(at 82.55 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3404,7 +3404,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 175.26 90)
+			(at 86.36 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3423,7 +3423,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D69")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -3431,7 +3431,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 175.26 0)
+		(at 107.95 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3441,8 +3441,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14581db7-0e67-419c-ad3d-841bec007971")
-		(property "Reference" "D84"
-			(at 131.93 174.194 0)
+		(property "Reference" "D42"
+			(at 107.8 156.414 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3455,7 +3455,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 175.26 90)
+			(at 110.49 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3465,7 +3465,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 175.26 90)
+			(at 107.95 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3476,7 +3476,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 175.26 90)
+			(at 107.95 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3487,7 +3487,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 175.26 90)
+			(at 111.76 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3506,7 +3506,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D84")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -3514,7 +3514,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 104.14 0)
+		(at 54.61 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3524,8 +3524,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15c51204-a745-422c-9c8f-2c8bbd07c84c")
-		(property "Reference" "S54"
-			(at 78.74 104.14 0)
+		(property "Reference" "S21"
+			(at 54.61 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3537,7 +3537,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 107.95 0)
+			(at 54.61 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3547,7 +3547,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 104.14 0)
+			(at 54.61 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3558,7 +3558,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 105.918 0)
+			(at 52.07 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3569,7 +3569,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 104.14 0)
+			(at 54.61 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3588,7 +3588,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S54")
+					(reference "S21")
 					(unit 1)
 				)
 			)
@@ -3596,7 +3596,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 76.2 0)
+		(at 82.55 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3606,8 +3606,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a72b132-c7e3-4c3f-80f5-33ef09ed682b")
-		(property "Reference" "D64"
-			(at 106.53 75.134 0)
+		(property "Reference" "D11"
+			(at 82.4 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3620,7 +3620,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 76.2 90)
+			(at 85.09 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3630,7 +3630,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 76.2 90)
+			(at 82.55 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3641,7 +3641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 76.2 90)
+			(at 82.55 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3652,7 +3652,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 76.2 90)
+			(at 86.36 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3671,7 +3671,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D64")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -3679,7 +3679,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 158.75 0)
+		(at 82.55 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3689,8 +3689,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f4ee517-ecd5-410c-a037-100378f0aec8")
-		(property "Reference" "D68"
-			(at 106.53 157.684 0)
+		(property "Reference" "D37"
+			(at 82.4 139.904 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3703,7 +3703,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 158.75 90)
+			(at 85.09 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3713,7 +3713,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 158.75 90)
+			(at 82.55 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3724,7 +3724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 158.75 90)
+			(at 82.55 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3735,7 +3735,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 158.75 90)
+			(at 86.36 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3754,7 +3754,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D68")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -3762,7 +3762,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 59.69 0)
+		(at 95.25 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3772,8 +3772,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21a85f42-9cb3-455d-8697-ede2526814da")
-		(property "Reference" "D70"
-			(at 119.23 58.624 0)
+		(property "Reference" "D5"
+			(at 95.1 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3786,7 +3786,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 59.69 90)
+			(at 97.79 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3796,7 +3796,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 59.69 90)
+			(at 95.25 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3807,7 +3807,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 59.69 90)
+			(at 95.25 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3818,7 +3818,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 59.69 90)
+			(at 99.06 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3837,7 +3837,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D70")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3845,7 +3845,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 54.61 0)
+		(at 105.41 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3855,8 +3855,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22ebc4e4-fd9b-4a9a-93b0-d3a35fc47a3c")
-		(property "Reference" "S78"
-			(at 129.54 54.61 0)
+		(property "Reference" "S6"
+			(at 105.41 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3868,7 +3868,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 58.42 0)
+			(at 105.41 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3878,7 +3878,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 54.61 0)
+			(at 105.41 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3889,7 +3889,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 56.388 0)
+			(at 102.87 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3900,7 +3900,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 54.61 0)
+			(at 105.41 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3919,7 +3919,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S78")
+					(reference "S6")
 					(unit 1)
 				)
 			)
@@ -3927,7 +3927,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 153.67 0)
+		(at 92.71 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3937,8 +3937,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "258f3212-68f2-4f72-9fe1-b7ef5705d216")
-		(property "Reference" "S76"
-			(at 116.84 153.67 0)
+		(property "Reference" "S38"
+			(at 92.71 135.89 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -3950,7 +3950,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 157.48 0)
+			(at 92.71 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3960,7 +3960,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 153.67 0)
+			(at 92.71 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3971,7 +3971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 155.448 0)
+			(at 90.17 137.668 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3982,7 +3982,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 153.67 0)
+			(at 92.71 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4001,7 +4001,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S76")
+					(reference "S38")
 					(unit 1)
 				)
 			)
@@ -4009,7 +4009,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 59.69 0)
+		(at 82.55 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4019,8 +4019,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26470994-c36f-4bb8-a851-2725f7a146e6")
-		(property "Reference" "D63"
-			(at 106.53 58.624 0)
+		(property "Reference" "D4"
+			(at 82.4 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4033,7 +4033,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 59.69 90)
+			(at 85.09 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4043,7 +4043,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 59.69 90)
+			(at 82.55 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4054,7 +4054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 59.69 90)
+			(at 82.55 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4065,7 +4065,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 59.69 90)
+			(at 86.36 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4084,7 +4084,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D63")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4092,7 +4092,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 54.61 0)
+		(at 54.61 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4102,8 +4102,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "271266c5-3c8b-4ed3-8f42-15e1f638ab1d")
-		(property "Reference" "S51"
-			(at 78.74 54.61 0)
+		(property "Reference" "S2"
+			(at 54.61 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4115,7 +4115,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 58.42 0)
+			(at 54.61 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4125,7 +4125,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 54.61 0)
+			(at 54.61 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4136,7 +4136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 56.388 0)
+			(at 52.07 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4147,7 +4147,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 54.61 0)
+			(at 54.61 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4166,7 +4166,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S51")
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -4174,7 +4174,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 87.63 0)
+		(at 80.01 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4184,8 +4184,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "291ef7f5-6b0e-40f8-bf0e-bf9f0cde8fb8")
-		(property "Reference" "S65"
-			(at 104.14 87.63 0)
+		(property "Reference" "S17"
+			(at 80.01 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4197,7 +4197,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 91.44 0)
+			(at 80.01 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4207,7 +4207,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 87.63 0)
+			(at 80.01 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4218,7 +4218,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 89.408 0)
+			(at 77.47 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4229,7 +4229,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 87.63 0)
+			(at 80.01 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4248,7 +4248,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S65")
+					(reference "S17")
 					(unit 1)
 				)
 			)
@@ -4256,7 +4256,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 120.65 0)
+		(at 92.71 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4266,8 +4266,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3580f287-3d32-42b9-af5f-7dfdf20e0fca")
-		(property "Reference" "S74"
-			(at 116.84 120.65 0)
+		(property "Reference" "S30"
+			(at 92.71 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4279,7 +4279,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 124.46 0)
+			(at 92.71 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4289,7 +4289,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 120.65 0)
+			(at 92.71 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,7 +4300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 122.428 0)
+			(at 90.17 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4311,7 +4311,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 120.65 0)
+			(at 92.71 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4330,7 +4330,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S74")
+					(reference "S30")
 					(unit 1)
 				)
 			)
@@ -4338,7 +4338,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 158.75 0)
+		(at 95.25 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4348,8 +4348,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ec2103-d608-4acb-a1eb-201c8debf239")
-		(property "Reference" "D76"
-			(at 119.23 157.684 0)
+		(property "Reference" "D38"
+			(at 95.1 139.904 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4362,7 +4362,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 158.75 90)
+			(at 97.79 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4372,7 +4372,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 158.75 90)
+			(at 95.25 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4383,7 +4383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 158.75 90)
+			(at 95.25 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +4394,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 158.75 90)
+			(at 99.06 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4413,7 +4413,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D76")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -4421,7 +4421,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 53.34 137.16 0)
+		(at 29.21 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4431,8 +4431,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ef3e38-38d1-484c-8ebe-fe13cbbb647b")
-		(property "Reference" "S44"
-			(at 53.34 137.16 0)
+		(property "Reference" "S32"
+			(at 29.21 119.38 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4444,7 +4444,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 53.34 140.97 0)
+			(at 29.21 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4454,7 +4454,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 53.34 137.16 0)
+			(at 29.21 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4465,7 +4465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 138.938 0)
+			(at 26.67 121.158 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4476,7 +4476,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 137.16 0)
+			(at 29.21 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4495,7 +4495,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S44")
+					(reference "S32")
 					(unit 1)
 				)
 			)
@@ -4503,7 +4503,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 104.14 0)
+		(at 67.31 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4513,8 +4513,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3805617f-4401-4d99-9356-92881fd1d169")
-		(property "Reference" "S60"
-			(at 91.44 104.14 0)
+		(property "Reference" "S22"
+			(at 67.31 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4526,7 +4526,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 107.95 0)
+			(at 67.31 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4536,7 +4536,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 104.14 0)
+			(at 67.31 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4547,7 +4547,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 105.918 0)
+			(at 64.77 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4558,7 +4558,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 104.14 0)
+			(at 67.31 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4577,7 +4577,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S60")
+					(reference "S22")
 					(unit 1)
 				)
 			)
@@ -4585,7 +4585,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 120.65 0)
+		(at 80.01 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4595,8 +4595,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38f016f0-2c55-4d85-b4e4-01a6226cf599")
-		(property "Reference" "S67"
-			(at 104.14 120.65 0)
+		(property "Reference" "S29"
+			(at 80.01 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4608,7 +4608,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 124.46 0)
+			(at 80.01 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4618,7 +4618,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 120.65 0)
+			(at 80.01 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4629,7 +4629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 122.428 0)
+			(at 77.47 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4640,7 +4640,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 120.65 0)
+			(at 80.01 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4659,7 +4659,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S67")
+					(reference "S29")
 					(unit 1)
 				)
 			)
@@ -4667,7 +4667,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 92.71 0)
+		(at 57.15 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4677,8 +4677,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39c6411e-d918-4cd6-8a6c-cb8eef3017a2")
-		(property "Reference" "D53"
-			(at 81.13 91.644 0)
+		(property "Reference" "D15"
+			(at 57 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4691,7 +4691,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 92.71 90)
+			(at 59.69 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4701,7 +4701,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 92.71 90)
+			(at 57.15 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4712,7 +4712,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 92.71 90)
+			(at 57.15 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4723,7 +4723,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 92.71 90)
+			(at 60.96 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4742,7 +4742,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D53")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -4750,7 +4750,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 76.2 0)
+		(at 69.85 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4760,8 +4760,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40110d96-b09f-40bf-90dd-219b9a44a9b3")
-		(property "Reference" "D58"
-			(at 93.83 75.134 0)
+		(property "Reference" "D10"
+			(at 69.7 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4774,7 +4774,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 76.2 90)
+			(at 72.39 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4784,7 +4784,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 76.2 90)
+			(at 69.85 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4795,7 +4795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 76.2 90)
+			(at 69.85 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4806,7 +4806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 76.2 90)
+			(at 73.66 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4825,7 +4825,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D58")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4833,7 +4833,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 109.22 0)
+		(at 95.25 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4843,8 +4843,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40d8e004-bf22-40c6-9a4d-14fe8935b4d2")
-		(property "Reference" "D73"
-			(at 119.23 108.154 0)
+		(property "Reference" "D24"
+			(at 95.1 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4857,7 +4857,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 109.22 90)
+			(at 97.79 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4867,7 +4867,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 109.22 90)
+			(at 95.25 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4878,7 +4878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 109.22 90)
+			(at 95.25 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4889,7 +4889,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 109.22 90)
+			(at 99.06 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4908,7 +4908,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D73")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -4916,7 +4916,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 142.24 0)
+		(at 95.25 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4926,8 +4926,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43225755-4f76-4c7b-b177-652aebe930db")
-		(property "Reference" "D75"
-			(at 119.23 141.174 0)
+		(property "Reference" "D36"
+			(at 95.1 123.394 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -4940,7 +4940,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 142.24 90)
+			(at 97.79 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4950,7 +4950,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 142.24 90)
+			(at 95.25 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4961,7 +4961,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 142.24 90)
+			(at 95.25 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4972,7 +4972,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 142.24 90)
+			(at 99.06 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4991,7 +4991,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D75")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -4999,7 +4999,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 104.14 0)
+		(at 105.41 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5009,8 +5009,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43e043ae-d390-4582-aa5b-b3b300781705")
-		(property "Reference" "S81"
-			(at 129.54 104.14 0)
+		(property "Reference" "S25"
+			(at 105.41 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5022,7 +5022,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 107.95 0)
+			(at 105.41 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5032,7 +5032,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 104.14 0)
+			(at 105.41 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5043,7 +5043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 105.918 0)
+			(at 102.87 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5054,7 +5054,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 104.14 0)
+			(at 105.41 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5073,7 +5073,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S81")
+					(reference "S25")
 					(unit 1)
 				)
 			)
@@ -5081,7 +5081,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 104.14 0)
+		(at 80.01 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5091,8 +5091,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "527afb6d-4664-439f-9f62-f09c99a37740")
-		(property "Reference" "S66"
-			(at 104.14 104.14 0)
+		(property "Reference" "S23"
+			(at 80.01 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5104,7 +5104,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 107.95 0)
+			(at 80.01 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5114,7 +5114,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 104.14 0)
+			(at 80.01 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5125,7 +5125,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 105.918 0)
+			(at 77.47 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5136,7 +5136,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 104.14 0)
+			(at 80.01 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5155,7 +5155,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S66")
+					(reference "S23")
 					(unit 1)
 				)
 			)
@@ -5163,7 +5163,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 153.67 0)
+		(at 105.41 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5173,8 +5173,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a93ef9c-ea1b-49dc-bce6-6119688e49e6")
-		(property "Reference" "S83"
-			(at 129.54 153.67 0)
+		(property "Reference" "S39"
+			(at 105.41 135.89 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5186,7 +5186,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 157.48 0)
+			(at 105.41 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5196,7 +5196,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 153.67 0)
+			(at 105.41 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5207,7 +5207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 155.448 0)
+			(at 102.87 137.668 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5218,7 +5218,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 153.67 0)
+			(at 105.41 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5237,7 +5237,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S83")
+					(reference "S39")
 					(unit 1)
 				)
 			)
@@ -5245,7 +5245,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 170.18 0)
+		(at 105.41 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5255,8 +5255,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c1797e9-885c-47b1-8983-38a52ccaabfe")
-		(property "Reference" "S84"
-			(at 129.54 170.18 0)
+		(property "Reference" "S42"
+			(at 105.41 152.4 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5268,7 +5268,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 173.99 0)
+			(at 105.41 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5278,7 +5278,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 170.18 0)
+			(at 105.41 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5289,7 +5289,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 171.958 0)
+			(at 102.87 154.178 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5300,7 +5300,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 170.18 0)
+			(at 105.41 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5319,7 +5319,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S84")
+					(reference "S42")
 					(unit 1)
 				)
 			)
@@ -5327,7 +5327,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 59.69 104.14 0)
+		(at 35.56 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5337,8 +5337,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61324661-f438-44a2-940f-b38c8fba2922")
-		(property "Reference" "S47"
-			(at 59.69 104.14 0)
+		(property "Reference" "S20"
+			(at 35.56 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5350,7 +5350,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 59.69 107.95 0)
+			(at 35.56 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5360,7 +5360,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
-			(at 59.69 104.14 0)
+			(at 35.56 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5371,7 +5371,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 105.918 0)
+			(at 33.02 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5382,7 +5382,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 104.14 0)
+			(at 35.56 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5401,7 +5401,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S47")
+					(reference "S20")
 					(unit 1)
 				)
 			)
@@ -5409,7 +5409,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 62.23 92.71 0)
+		(at 38.1 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5419,8 +5419,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "621b625c-11a8-44ac-9028-4fbf7d07aed6")
-		(property "Reference" "D46"
-			(at 62.08 91.644 0)
+		(property "Reference" "D14"
+			(at 37.95 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5433,7 +5433,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 64.77 92.71 90)
+			(at 40.64 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5443,7 +5443,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 62.23 92.71 90)
+			(at 38.1 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5454,7 +5454,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 92.71 90)
+			(at 38.1 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5465,7 +5465,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 92.71 90)
+			(at 41.91 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5484,7 +5484,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D46")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -5492,7 +5492,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 59.69 0)
+		(at 69.85 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5502,8 +5502,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65705dfc-de43-4eaa-b7ff-30a40a2c987e")
-		(property "Reference" "D57"
-			(at 93.83 58.624 0)
+		(property "Reference" "D3"
+			(at 69.7 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5516,7 +5516,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 59.69 90)
+			(at 72.39 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5526,7 +5526,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 59.69 90)
+			(at 69.85 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5537,7 +5537,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 59.69 90)
+			(at 69.85 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5548,7 +5548,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 59.69 90)
+			(at 73.66 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5567,7 +5567,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D57")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -5575,7 +5575,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 68.58 142.24 0)
+		(at 44.45 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5585,8 +5585,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a945432-5932-4713-8154-a5c0c3ce3639")
-		(property "Reference" "D50"
-			(at 68.43 141.174 0)
+		(property "Reference" "D33"
+			(at 44.3 123.394 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5599,7 +5599,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 71.12 142.24 90)
+			(at 46.99 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5609,7 +5609,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 68.58 142.24 90)
+			(at 44.45 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5620,7 +5620,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 142.24 90)
+			(at 44.45 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5631,7 +5631,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 142.24 90)
+			(at 48.26 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5650,7 +5650,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D50")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -5658,7 +5658,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 142.24 0)
+		(at 69.85 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5668,8 +5668,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f36930d-75a9-4c1d-b300-efe36bd17e8e")
-		(property "Reference" "D62"
-			(at 93.83 141.174 0)
+		(property "Reference" "D35"
+			(at 69.7 123.394 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5682,7 +5682,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 142.24 90)
+			(at 72.39 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5692,7 +5692,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 142.24 90)
+			(at 69.85 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5703,7 +5703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 142.24 90)
+			(at 69.85 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5714,7 +5714,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 142.24 90)
+			(at 73.66 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5733,7 +5733,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D62")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -5741,7 +5741,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 137.16 0)
+		(at 92.71 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5751,8 +5751,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "703945e0-bccc-44fd-b536-d73ff7b42bcd")
-		(property "Reference" "S75"
-			(at 116.84 137.16 0)
+		(property "Reference" "S36"
+			(at 92.71 119.38 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5764,7 +5764,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 140.97 0)
+			(at 92.71 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5774,7 +5774,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_3.00u"
-			(at 116.84 137.16 0)
+			(at 92.71 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5785,7 +5785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 138.938 0)
+			(at 90.17 121.158 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5796,7 +5796,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 137.16 0)
+			(at 92.71 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5815,7 +5815,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S75")
+					(reference "S36")
 					(unit 1)
 				)
 			)
@@ -5823,7 +5823,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 92.71 0)
+		(at 69.85 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5833,8 +5833,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7307d1f6-1bd0-4c14-8527-5a49687392ea")
-		(property "Reference" "D59"
-			(at 93.83 91.644 0)
+		(property "Reference" "D16"
+			(at 69.7 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5847,7 +5847,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 92.71 90)
+			(at 72.39 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5857,7 +5857,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 92.71 90)
+			(at 69.85 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5868,7 +5868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 92.71 90)
+			(at 69.85 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5879,7 +5879,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 92.71 90)
+			(at 73.66 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5898,7 +5898,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D59")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -5906,7 +5906,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 158.75 0)
+		(at 107.95 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5916,8 +5916,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74272fd6-e529-438b-9878-a1541d078488")
-		(property "Reference" "D83"
-			(at 131.93 157.684 0)
+		(property "Reference" "D39"
+			(at 107.8 139.904 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -5930,7 +5930,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 158.75 90)
+			(at 110.49 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5940,7 +5940,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 158.75 90)
+			(at 107.95 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5951,7 +5951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 158.75 90)
+			(at 107.95 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5962,7 +5962,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 158.75 90)
+			(at 111.76 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5981,7 +5981,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D83")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -5989,7 +5989,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 92.71 0)
+		(at 107.95 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5999,8 +5999,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "746c5401-e050-47b2-8dc5-44dc2359548a")
-		(property "Reference" "D80"
-			(at 131.93 91.644 0)
+		(property "Reference" "D19"
+			(at 107.8 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6013,7 +6013,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 92.71 90)
+			(at 110.49 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6023,7 +6023,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 92.71 90)
+			(at 107.95 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6034,7 +6034,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 92.71 90)
+			(at 107.95 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6045,7 +6045,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 92.71 90)
+			(at 111.76 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6064,7 +6064,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D80")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -6072,7 +6072,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 71.12 0)
+		(at 54.61 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6082,8 +6082,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78683969-31c3-4099-af49-b44aad44d8db")
-		(property "Reference" "S52"
-			(at 78.74 71.12 0)
+		(property "Reference" "S9"
+			(at 54.61 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6095,7 +6095,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 74.93 0)
+			(at 54.61 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6105,7 +6105,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 71.12 0)
+			(at 54.61 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6116,7 +6116,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 72.898 0)
+			(at 52.07 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6127,7 +6127,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 71.12 0)
+			(at 54.61 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6146,7 +6146,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S52")
+					(reference "S9")
 					(unit 1)
 				)
 			)
@@ -6154,7 +6154,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 59.69 54.61 0)
+		(at 35.56 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6164,8 +6164,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78a622fe-fd55-42fc-a505-684e9628f637")
-		(property "Reference" "S45"
-			(at 59.69 54.61 0)
+		(property "Reference" "S1"
+			(at 35.56 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6177,7 +6177,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 59.69 58.42 0)
+			(at 35.56 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6187,7 +6187,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
-			(at 59.69 54.61 0)
+			(at 35.56 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6198,7 +6198,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 56.388 0)
+			(at 33.02 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6209,7 +6209,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 54.61 0)
+			(at 35.56 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6228,7 +6228,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S45")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -6236,7 +6236,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 66.04 137.16 0)
+		(at 41.91 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6246,8 +6246,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a7134f2-dab6-411d-9ce2-12c5a5b79d01")
-		(property "Reference" "S50"
-			(at 66.04 137.16 0)
+		(property "Reference" "S33"
+			(at 41.91 119.38 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6259,7 +6259,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 66.04 140.97 0)
+			(at 41.91 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6269,7 +6269,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 66.04 137.16 0)
+			(at 41.91 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6280,7 +6280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 138.938 0)
+			(at 39.37 121.158 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6291,7 +6291,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 137.16 0)
+			(at 41.91 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6310,7 +6310,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S50")
+					(reference "S33")
 					(unit 1)
 				)
 			)
@@ -6318,7 +6318,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 137.16 0)
+		(at 54.61 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6328,8 +6328,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82c65ae1-c1e5-45ee-959e-33811b021e23")
-		(property "Reference" "S56"
-			(at 78.74 137.16 0)
+		(property "Reference" "S34"
+			(at 54.61 119.38 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6341,7 +6341,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 140.97 0)
+			(at 54.61 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6351,7 +6351,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 137.16 0)
+			(at 54.61 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6362,7 +6362,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 138.938 0)
+			(at 52.07 121.158 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6373,7 +6373,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 137.16 0)
+			(at 54.61 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6392,7 +6392,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S56")
+					(reference "S34")
 					(unit 1)
 				)
 			)
@@ -6400,7 +6400,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 71.12 0)
+		(at 92.71 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6410,8 +6410,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8335867f-031c-4a5e-99d3-27743dc5d06a")
-		(property "Reference" "S71"
-			(at 116.84 71.12 0)
+		(property "Reference" "S12"
+			(at 92.71 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6423,7 +6423,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 74.93 0)
+			(at 92.71 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6433,7 +6433,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 71.12 0)
+			(at 92.71 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6444,7 +6444,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 72.898 0)
+			(at 90.17 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6455,7 +6455,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 71.12 0)
+			(at 92.71 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6474,7 +6474,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S71")
+					(reference "S12")
 					(unit 1)
 				)
 			)
@@ -6482,7 +6482,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 87.63 0)
+		(at 105.41 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6492,8 +6492,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b97cb50-b05f-480b-826f-7d6ef83e0961")
-		(property "Reference" "S80"
-			(at 129.54 87.63 0)
+		(property "Reference" "S19"
+			(at 105.41 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6505,7 +6505,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 91.44 0)
+			(at 105.41 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6515,7 +6515,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 87.63 0)
+			(at 105.41 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6526,7 +6526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 89.408 0)
+			(at 102.87 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6537,7 +6537,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 87.63 0)
+			(at 105.41 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6556,7 +6556,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S80")
+					(reference "S19")
 					(unit 1)
 				)
 			)
@@ -6564,7 +6564,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 55.88 76.2 0)
+		(at 31.75 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6574,8 +6574,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93bfaf37-6bdb-4cf1-a5f2-a6418b35d793")
-		(property "Reference" "D43"
-			(at 55.73 75.134 0)
+		(property "Reference" "D7"
+			(at 31.6 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6588,7 +6588,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 58.42 76.2 90)
+			(at 34.29 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6598,7 +6598,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 55.88 76.2 90)
+			(at 31.75 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6609,7 +6609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 76.2 90)
+			(at 31.75 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6620,7 +6620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 76.2 90)
+			(at 35.56 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6639,7 +6639,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D43")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -6647,7 +6647,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 92.71 0)
+		(at 95.25 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6657,8 +6657,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2f7ffac-d881-4b74-981e-e7dae3a17050")
-		(property "Reference" "D72"
-			(at 119.23 91.644 0)
+		(property "Reference" "D18"
+			(at 95.1 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6671,7 +6671,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 92.71 90)
+			(at 97.79 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6681,7 +6681,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 92.71 90)
+			(at 95.25 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6692,7 +6692,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 92.71 90)
+			(at 95.25 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6703,7 +6703,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 92.71 90)
+			(at 99.06 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6722,7 +6722,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D72")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -6730,7 +6730,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 109.22 0)
+		(at 82.55 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6740,8 +6740,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3955dee-fdcf-4d38-9a17-89353997ad3a")
-		(property "Reference" "D66"
-			(at 106.53 108.154 0)
+		(property "Reference" "D23"
+			(at 82.4 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6754,7 +6754,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 109.22 90)
+			(at 85.09 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6764,7 +6764,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 109.22 90)
+			(at 82.55 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6775,7 +6775,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 109.22 90)
+			(at 82.55 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6786,7 +6786,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 109.22 90)
+			(at 86.36 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6805,7 +6805,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D66")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -6813,7 +6813,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 87.63 0)
+		(at 54.61 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6823,8 +6823,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a57d3662-d35d-4be2-85cd-09da779f7727")
-		(property "Reference" "S53"
-			(at 78.74 87.63 0)
+		(property "Reference" "S15"
+			(at 54.61 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6836,7 +6836,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 91.44 0)
+			(at 54.61 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6846,7 +6846,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 87.63 0)
+			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6857,7 +6857,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 89.408 0)
+			(at 52.07 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6868,7 +6868,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 87.63 0)
+			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6887,7 +6887,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S53")
+					(reference "S15")
 					(unit 1)
 				)
 			)
@@ -6895,7 +6895,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 59.69 87.63 0)
+		(at 35.56 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6905,8 +6905,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0aace6d-68c6-44a6-94ed-d387a1e3f526")
-		(property "Reference" "S46"
-			(at 59.69 87.63 0)
+		(property "Reference" "S14"
+			(at 35.56 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6918,7 +6918,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 59.69 91.44 0)
+			(at 35.56 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6928,7 +6928,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
-			(at 59.69 87.63 0)
+			(at 35.56 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6939,7 +6939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 89.408 0)
+			(at 33.02 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6950,7 +6950,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 87.63 0)
+			(at 35.56 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6969,7 +6969,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S46")
+					(reference "S14")
 					(unit 1)
 				)
 			)
@@ -6977,7 +6977,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 109.22 0)
+		(at 69.85 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6987,8 +6987,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72a07d7-6bdf-4b4d-b0c1-4534e89c99ef")
-		(property "Reference" "D60"
-			(at 93.83 108.154 0)
+		(property "Reference" "D22"
+			(at 69.7 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7001,7 +7001,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 109.22 90)
+			(at 72.39 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7011,7 +7011,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 109.22 90)
+			(at 69.85 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7022,7 +7022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 109.22 90)
+			(at 69.85 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7033,7 +7033,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 109.22 90)
+			(at 73.66 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7052,7 +7052,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D60")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -7060,7 +7060,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 59.69 120.65 0)
+		(at 35.56 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7070,8 +7070,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7d76fc0-aa1b-4857-9c84-d2f9a2c41cc6")
-		(property "Reference" "S48"
-			(at 59.69 120.65 0)
+		(property "Reference" "S26"
+			(at 35.56 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7083,7 +7083,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 59.69 124.46 0)
+			(at 35.56 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7093,7 +7093,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
-			(at 59.69 120.65 0)
+			(at 35.56 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7104,7 +7104,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 122.428 0)
+			(at 33.02 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7115,7 +7115,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 120.65 0)
+			(at 35.56 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7134,7 +7134,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S48")
+					(reference "S26")
 					(unit 1)
 				)
 			)
@@ -7142,7 +7142,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 125.73 0)
+		(at 57.15 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7152,8 +7152,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba566021-304c-4c60-95e8-d13aded7cecb")
-		(property "Reference" "D55"
-			(at 81.13 124.664 0)
+		(property "Reference" "D27"
+			(at 57 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7166,7 +7166,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 125.73 90)
+			(at 59.69 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7176,7 +7176,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 125.73 90)
+			(at 57.15 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7187,7 +7187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 125.73 90)
+			(at 57.15 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7198,7 +7198,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 125.73 90)
+			(at 60.96 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7217,7 +7217,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D55")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -7225,7 +7225,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 125.73 0)
+		(at 107.95 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7235,8 +7235,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc94f8e6-7187-4433-a737-779866387dcb")
-		(property "Reference" "D82"
-			(at 131.93 124.664 0)
+		(property "Reference" "D31"
+			(at 107.8 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7249,7 +7249,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 125.73 90)
+			(at 110.49 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7259,7 +7259,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 125.73 90)
+			(at 107.95 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7270,7 +7270,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 125.73 90)
+			(at 107.95 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7281,7 +7281,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 125.73 90)
+			(at 111.76 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7300,7 +7300,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D82")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -7308,7 +7308,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 54.61 0)
+		(at 67.31 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7318,8 +7318,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcd57464-7c9f-4d16-baa9-8beba3dc8831")
-		(property "Reference" "S57"
-			(at 91.44 54.61 0)
+		(property "Reference" "S3"
+			(at 67.31 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7331,7 +7331,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 58.42 0)
+			(at 67.31 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7341,7 +7341,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 54.61 0)
+			(at 67.31 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7352,7 +7352,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 56.388 0)
+			(at 64.77 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7363,7 +7363,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 54.61 0)
+			(at 67.31 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7382,7 +7382,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S57")
+					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -7390,7 +7390,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 71.12 0)
+		(at 105.41 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7400,8 +7400,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf561e57-227e-4b82-94c5-e4c9c7a5383c")
-		(property "Reference" "S79"
-			(at 129.54 71.12 0)
+		(property "Reference" "S13"
+			(at 105.41 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7413,7 +7413,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 74.93 0)
+			(at 105.41 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7423,7 +7423,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 71.12 0)
+			(at 105.41 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7434,7 +7434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 72.898 0)
+			(at 102.87 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7445,7 +7445,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 71.12 0)
+			(at 105.41 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7464,7 +7464,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S79")
+					(reference "S13")
 					(unit 1)
 				)
 			)
@@ -7472,7 +7472,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 125.73 0)
+		(at 82.55 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7482,8 +7482,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf90afd1-3837-4a49-954c-763dda1bb8ed")
-		(property "Reference" "D67"
-			(at 106.53 124.664 0)
+		(property "Reference" "D29"
+			(at 82.4 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7496,7 +7496,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 125.73 90)
+			(at 85.09 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7506,7 +7506,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 125.73 90)
+			(at 82.55 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7517,7 +7517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 125.73 90)
+			(at 82.55 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7528,7 +7528,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 125.73 90)
+			(at 86.36 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7547,7 +7547,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D67")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -7555,7 +7555,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 54.61 0)
+		(at 80.01 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7565,8 +7565,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1660a71-35a9-4fdc-8b6b-821957bd66ef")
-		(property "Reference" "S63"
-			(at 104.14 54.61 0)
+		(property "Reference" "S4"
+			(at 80.01 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7578,7 +7578,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 58.42 0)
+			(at 80.01 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7588,7 +7588,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 54.61 0)
+			(at 80.01 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7599,7 +7599,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 56.388 0)
+			(at 77.47 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7610,7 +7610,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 54.61 0)
+			(at 80.01 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7629,7 +7629,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S63")
+					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -7637,7 +7637,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 55.88 142.24 0)
+		(at 31.75 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7647,8 +7647,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c225f5d5-c8d1-4197-953f-6c2cb06ee4c6")
-		(property "Reference" "D44"
-			(at 55.73 141.174 0)
+		(property "Reference" "D32"
+			(at 31.6 123.394 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7661,7 +7661,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 58.42 142.24 90)
+			(at 34.29 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7671,7 +7671,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 55.88 142.24 90)
+			(at 31.75 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7682,7 +7682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 142.24 90)
+			(at 31.75 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7693,7 +7693,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 142.24 90)
+			(at 35.56 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7712,7 +7712,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D44")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -7720,7 +7720,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 129.54 120.65 0)
+		(at 105.41 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7730,8 +7730,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c24caee5-c4c4-4826-aec5-2992be23dead")
-		(property "Reference" "S82"
-			(at 129.54 120.65 0)
+		(property "Reference" "S31"
+			(at 105.41 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7743,7 +7743,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 129.54 124.46 0)
+			(at 105.41 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7753,7 +7753,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 129.54 120.65 0)
+			(at 105.41 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7764,7 +7764,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 122.428 0)
+			(at 102.87 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7775,7 +7775,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 120.65 0)
+			(at 105.41 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7794,7 +7794,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S82")
+					(reference "S31")
 					(unit 1)
 				)
 			)
@@ -7802,7 +7802,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 66.04 71.12 0)
+		(at 41.91 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7812,8 +7812,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c28cd303-3166-41a8-b941-b324247b761f")
-		(property "Reference" "S49"
-			(at 66.04 71.12 0)
+		(property "Reference" "S8"
+			(at 41.91 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7825,7 +7825,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 66.04 74.93 0)
+			(at 41.91 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7835,7 +7835,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 66.04 71.12 0)
+			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7846,7 +7846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 72.898 0)
+			(at 39.37 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7857,7 +7857,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 71.12 0)
+			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7876,7 +7876,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S49")
+					(reference "S8")
 					(unit 1)
 				)
 			)
@@ -7884,7 +7884,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 137.16 0)
+		(at 67.31 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7894,8 +7894,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c729fe8b-0b65-43a8-8a7b-4f3ffb808516")
-		(property "Reference" "S62"
-			(at 91.44 137.16 0)
+		(property "Reference" "S35"
+			(at 67.31 119.38 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7907,7 +7907,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 140.97 0)
+			(at 67.31 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7917,7 +7917,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 137.16 0)
+			(at 67.31 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7928,7 +7928,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 138.938 0)
+			(at 64.77 121.158 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7939,7 +7939,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 137.16 0)
+			(at 67.31 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7958,7 +7958,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S62")
+					(reference "S35")
 					(unit 1)
 				)
 			)
@@ -7966,7 +7966,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 87.63 0)
+		(at 67.31 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7976,8 +7976,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7e576c7-c0d1-458d-bcd9-a2a7693544b0")
-		(property "Reference" "S59"
-			(at 91.44 87.63 0)
+		(property "Reference" "S16"
+			(at 67.31 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7989,7 +7989,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 91.44 0)
+			(at 67.31 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7999,7 +7999,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 87.63 0)
+			(at 67.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8010,7 +8010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 89.408 0)
+			(at 64.77 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8021,7 +8021,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 87.63 0)
+			(at 67.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8040,7 +8040,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S59")
+					(reference "S16")
 					(unit 1)
 				)
 			)
@@ -8048,7 +8048,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 106.68 92.71 0)
+		(at 82.55 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8058,8 +8058,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cccb35fb-e323-4997-ba17-6073a54ab17f")
-		(property "Reference" "D65"
-			(at 106.53 91.644 0)
+		(property "Reference" "D17"
+			(at 82.4 73.864 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8072,7 +8072,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 109.22 92.71 90)
+			(at 85.09 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8082,7 +8082,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 106.68 92.71 90)
+			(at 82.55 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8093,7 +8093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 92.71 90)
+			(at 82.55 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8104,7 +8104,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 92.71 90)
+			(at 86.36 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8123,7 +8123,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D65")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -8131,7 +8131,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 119.38 175.26 0)
+		(at 95.25 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8141,8 +8141,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1e8f552-6fac-4771-aec5-5027af5f1bce")
-		(property "Reference" "D77"
-			(at 119.23 174.194 0)
+		(property "Reference" "D41"
+			(at 95.1 156.414 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8155,7 +8155,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 121.92 175.26 90)
+			(at 97.79 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8165,7 +8165,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 119.38 175.26 90)
+			(at 95.25 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8176,7 +8176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 175.26 90)
+			(at 95.25 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8187,7 +8187,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 175.26 90)
+			(at 99.06 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8206,7 +8206,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D77")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -8214,7 +8214,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 87.63 0)
+		(at 92.71 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8224,8 +8224,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8084333-c0bd-47ef-b268-78e53ec9392b")
-		(property "Reference" "S72"
-			(at 116.84 87.63 0)
+		(property "Reference" "S18"
+			(at 92.71 69.85 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8237,7 +8237,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 91.44 0)
+			(at 92.71 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8247,7 +8247,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 87.63 0)
+			(at 92.71 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8258,7 +8258,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 89.408 0)
+			(at 90.17 71.628 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8269,7 +8269,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 87.63 0)
+			(at 92.71 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8288,7 +8288,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S72")
+					(reference "S18")
 					(unit 1)
 				)
 			)
@@ -8296,7 +8296,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 54.61 0)
+		(at 92.71 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8306,8 +8306,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e00ae98e-69b3-4d97-b1de-69271f1e1871")
-		(property "Reference" "S70"
-			(at 116.84 54.61 0)
+		(property "Reference" "S5"
+			(at 92.71 36.83 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8319,7 +8319,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 58.42 0)
+			(at 92.71 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8329,7 +8329,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 54.61 0)
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8340,7 +8340,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 56.388 0)
+			(at 90.17 38.608 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8351,7 +8351,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 54.61 0)
+			(at 92.71 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8370,7 +8370,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S70")
+					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -8378,7 +8378,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 59.69 0)
+		(at 107.95 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8388,8 +8388,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0298d60-9441-4bab-a4a9-6afd19d16e79")
-		(property "Reference" "D78"
-			(at 131.93 58.624 0)
+		(property "Reference" "D6"
+			(at 107.8 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8402,7 +8402,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 59.69 90)
+			(at 110.49 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8412,7 +8412,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 59.69 90)
+			(at 107.95 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8423,7 +8423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 59.69 90)
+			(at 107.95 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8434,7 +8434,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 59.69 90)
+			(at 111.76 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8453,7 +8453,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D78")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -8461,7 +8461,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 76.2 0)
+		(at 107.95 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8471,8 +8471,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e27511e7-7c58-4e12-8bc5-bf2798cb4f35")
-		(property "Reference" "D79"
-			(at 131.93 75.134 0)
+		(property "Reference" "D13"
+			(at 107.8 57.354 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8485,7 +8485,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 76.2 90)
+			(at 110.49 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8495,7 +8495,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 76.2 90)
+			(at 107.95 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8506,7 +8506,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 76.2 90)
+			(at 107.95 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8517,7 +8517,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 76.2 90)
+			(at 111.76 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8536,7 +8536,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D79")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -8544,7 +8544,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 153.67 0)
+		(at 80.01 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8554,8 +8554,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec7206d6-c1c0-445c-9f0e-e317fab7c21b")
-		(property "Reference" "S68"
-			(at 104.14 153.67 0)
+		(property "Reference" "S37"
+			(at 80.01 135.89 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8567,7 +8567,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 104.14 157.48 0)
+			(at 80.01 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8577,7 +8577,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 104.14 153.67 0)
+			(at 80.01 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8588,7 +8588,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 155.448 0)
+			(at 77.47 137.668 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8599,7 +8599,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 153.67 0)
+			(at 80.01 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8618,7 +8618,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S68")
+					(reference "S37")
 					(unit 1)
 				)
 			)
@@ -8626,7 +8626,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 120.65 0)
+		(at 54.61 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8636,8 +8636,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0ec324c-842a-4120-936a-b53aa2134d7f")
-		(property "Reference" "S55"
-			(at 78.74 120.65 0)
+		(property "Reference" "S27"
+			(at 54.61 102.87 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8649,7 +8649,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 78.74 124.46 0)
+			(at 54.61 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8659,7 +8659,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 78.74 120.65 0)
+			(at 54.61 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8670,7 +8670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 122.428 0)
+			(at 52.07 104.648 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8681,7 +8681,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 120.65 0)
+			(at 54.61 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8700,7 +8700,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S55")
+					(reference "S27")
 					(unit 1)
 				)
 			)
@@ -8708,7 +8708,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 93.98 125.73 0)
+		(at 69.85 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8718,8 +8718,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1a0ee3a-9fc1-45ba-8a70-59821f29f961")
-		(property "Reference" "D61"
-			(at 93.83 124.664 0)
+		(property "Reference" "D28"
+			(at 69.7 106.884 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8732,7 +8732,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 96.52 125.73 90)
+			(at 72.39 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8742,7 +8742,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 93.98 125.73 90)
+			(at 69.85 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8753,7 +8753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 125.73 90)
+			(at 69.85 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8764,7 +8764,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 125.73 90)
+			(at 73.66 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8783,7 +8783,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D61")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -8791,7 +8791,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 71.12 0)
+		(at 67.31 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8801,8 +8801,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f232e266-f456-4c89-be6c-77fa0397df0f")
-		(property "Reference" "S58"
-			(at 91.44 71.12 0)
+		(property "Reference" "S10"
+			(at 67.31 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8814,7 +8814,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 91.44 74.93 0)
+			(at 67.31 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8824,7 +8824,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 91.44 71.12 0)
+			(at 67.31 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8835,7 +8835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 72.898 0)
+			(at 64.77 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8846,7 +8846,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 71.12 0)
+			(at 67.31 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8865,7 +8865,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S58")
+					(reference "S10")
 					(unit 1)
 				)
 			)
@@ -8873,7 +8873,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 132.08 109.22 0)
+		(at 107.95 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8883,8 +8883,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5f89a3c-5e4c-4cc9-bd41-a6388caf3d3a")
-		(property "Reference" "D81"
-			(at 131.93 108.154 0)
+		(property "Reference" "D25"
+			(at 107.8 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8897,7 +8897,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 134.62 109.22 90)
+			(at 110.49 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8907,7 +8907,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 132.08 109.22 90)
+			(at 107.95 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8918,7 +8918,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 109.22 90)
+			(at 107.95 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8929,7 +8929,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 109.22 90)
+			(at 111.76 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8948,7 +8948,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D81")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -8956,7 +8956,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 170.18 0)
+		(at 92.71 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8966,8 +8966,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f76abc73-8709-4f77-b3b7-eab74ba84bca")
-		(property "Reference" "S77"
-			(at 116.84 170.18 0)
+		(property "Reference" "S41"
+			(at 92.71 152.4 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -8979,7 +8979,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 173.99 0)
+			(at 92.71 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8989,7 +8989,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 170.18 0)
+			(at 92.71 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9000,7 +9000,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 171.958 0)
+			(at 90.17 154.178 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9011,7 +9011,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 170.18 0)
+			(at 92.71 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9030,7 +9030,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S77")
+					(reference "S41")
 					(unit 1)
 				)
 			)
@@ -9038,7 +9038,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 59.69 0)
+		(at 57.15 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9048,8 +9048,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7c05a42-c5aa-40b9-81b5-8ca79b5b1809")
-		(property "Reference" "D51"
-			(at 81.13 58.624 0)
+		(property "Reference" "D2"
+			(at 57 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9062,7 +9062,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 59.69 90)
+			(at 59.69 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9072,7 +9072,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 59.69 90)
+			(at 57.15 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9083,7 +9083,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 59.69 90)
+			(at 57.15 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9094,7 +9094,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 59.69 90)
+			(at 60.96 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9113,7 +9113,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D51")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9121,7 +9121,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 53.34 71.12 0)
+		(at 29.21 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9131,8 +9131,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9c1eda8-a5ea-4f71-b19b-7636eb4b7613")
-		(property "Reference" "S43"
-			(at 53.34 71.12 0)
+		(property "Reference" "S7"
+			(at 29.21 53.34 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9144,7 +9144,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 53.34 74.93 0)
+			(at 29.21 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9154,7 +9154,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 53.34 71.12 0)
+			(at 29.21 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9165,7 +9165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 72.898 0)
+			(at 26.67 55.118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9176,7 +9176,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 71.12 0)
+			(at 29.21 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9195,7 +9195,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S43")
+					(reference "S7")
 					(unit 1)
 				)
 			)
@@ -9203,7 +9203,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 116.84 104.14 0)
+		(at 92.71 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9213,8 +9213,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fba7fde4-f8a9-4094-a480-6cdb61bb1b33")
-		(property "Reference" "S73"
-			(at 116.84 104.14 0)
+		(property "Reference" "S24"
+			(at 92.71 86.36 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9226,7 +9226,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 107.95 0)
+			(at 92.71 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9236,7 +9236,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 116.84 104.14 0)
+			(at 92.71 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9247,7 +9247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 105.918 0)
+			(at 90.17 88.138 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9258,7 +9258,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 104.14 0)
+			(at 92.71 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9277,7 +9277,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "S73")
+					(reference "S24")
 					(unit 1)
 				)
 			)
@@ -9285,7 +9285,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 62.23 109.22 0)
+		(at 38.1 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9295,8 +9295,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd73e948-e37c-4b87-849f-a494f6339aea")
-		(property "Reference" "D47"
-			(at 62.08 108.154 0)
+		(property "Reference" "D20"
+			(at 37.95 90.374 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9309,7 +9309,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 64.77 109.22 90)
+			(at 40.64 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9319,7 +9319,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 62.23 109.22 90)
+			(at 38.1 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9330,7 +9330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 109.22 90)
+			(at 38.1 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9341,7 +9341,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 109.22 90)
+			(at 41.91 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9360,7 +9360,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D47")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -9368,7 +9368,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 62.23 59.69 0)
+		(at 38.1 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9378,8 +9378,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe79ad2e-747c-483c-855a-fe69c4dcb8b0")
-		(property "Reference" "D45"
-			(at 62.08 58.624 0)
+		(property "Reference" "D1"
+			(at 37.95 40.844 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9392,7 +9392,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 64.77 59.69 90)
+			(at 40.64 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9402,7 +9402,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 62.23 59.69 90)
+			(at 38.1 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9413,7 +9413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 59.69 90)
+			(at 38.1 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9424,7 +9424,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 59.69 90)
+			(at 41.91 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9443,7 +9443,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D45")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -9451,7 +9451,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 81.28 142.24 0)
+		(at 57.15 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9461,8 +9461,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffd1165d-3a71-4e67-a0cb-e8451fc6fe8f")
-		(property "Reference" "D56"
-			(at 81.13 141.174 0)
+		(property "Reference" "D34"
+			(at 57 123.394 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -9475,7 +9475,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 83.82 142.24 90)
+			(at 59.69 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9485,7 +9485,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 81.28 142.24 90)
+			(at 57.15 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9496,7 +9496,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 142.24 90)
+			(at 57.15 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9507,7 +9507,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 142.24 90)
+			(at 60.96 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9526,7 +9526,7 @@
 		(instances
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8c33f09c-8518-4bc4-a9c3-db01e82ba4b2"
-					(reference "D56")
+					(reference "D34")
 					(unit 1)
 				)
 			)
