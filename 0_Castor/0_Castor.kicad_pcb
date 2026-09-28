@@ -64975,7 +64975,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 1.16 90)
+			(at 0 -1.2 90)
 			(layer "B.SilkS")
 			(uuid "72f85bcc-b0c2-402d-9233-8ad93a64f82c")
 			(effects
@@ -70190,45 +70190,45 @@
 		)
 	)
 	(gr_arc
-		(start 165.64 151.022056)
-		(mid 167.64 150.495)
-		(end 169.64 151.022057)
+		(start 150.546428 151.022057)
+		(mid 152.546428 150.495002)
+		(end 154.546428 151.022056)
 		(stroke
 			(width 0.5)
 			(type default)
 		)
-		(layer "B.SilkS")
+		(layer "F.SilkS")
 		(uuid "bf9e6a7c-7b54-4332-8953-5acfad78fab6")
 	)
 	(gr_line
-		(start 166.59 147.522057)
-		(end 166.59 150.522057)
+		(start 151.496428 147.522057)
+		(end 151.496428 150.522057)
 		(stroke
 			(width 0.5)
 			(type default)
 		)
-		(layer "B.SilkS")
-		(uuid "1d5c5f59-7b90-42e5-9df4-7aa765bd6bb4")
-	)
-	(gr_line
-		(start 168.69 147.522057)
-		(end 168.69 150.522057)
-		(stroke
-			(width 0.5)
-			(type default)
-		)
-		(layer "B.SilkS")
+		(layer "F.SilkS")
 		(uuid "8b8d03fd-800c-4acb-8257-8a21f9025ff5")
 	)
-	(gr_arc
-		(start 169.64 147.022057)
-		(mid 167.64 147.549113)
-		(end 165.64 147.022056)
+	(gr_line
+		(start 153.596428 147.522057)
+		(end 153.596428 150.522057)
 		(stroke
 			(width 0.5)
 			(type default)
 		)
-		(layer "B.SilkS")
+		(layer "F.SilkS")
+		(uuid "1d5c5f59-7b90-42e5-9df4-7aa765bd6bb4")
+	)
+	(gr_arc
+		(start 154.546428 147.022056)
+		(mid 152.546428 147.549109)
+		(end 150.546428 147.022057)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
 		(uuid "8b18ae0a-f818-41d6-8200-0977faa6a0b1")
 	)
 	(gr_line
@@ -70681,8 +70681,8 @@
 		(uuid "d06ff811-db8a-4095-a6b0-16cb8029bb54")
 	)
 	(gr_text "Castor"
-		(at 165.735 151 -0)
-		(layer "B.SilkS")
+		(at 155.186428 151 0)
+		(layer "F.SilkS")
 		(uuid "e3e28bc0-f9df-4421-945e-db2a23032d6f")
 		(effects
 			(font
@@ -70691,7 +70691,7 @@
 				(bold yes)
 				(italic yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(segment
