@@ -674,7 +674,7 @@
         "uuid": "6a22142a-0a1c-422a-8fa2-3ae5d7a30893"
       }
     ],
-    "used_designators": "C1-45,LED1-56,S1-126,D1-126,U1-4,SW1-3,H1,J1,#PWR1-103,R1-18,NULL1-2",
+    "used_designators": "C1-49,LED1-56,S1-126,D1-126,U1-4,SW1-3,H1,J1,#PWR1-116,R1-18,NULL1-2,L1",
     "variants": []
   },
   "sheets": [
@@ -689,6 +689,10 @@
     [
       "8820b80f-7246-405a-908a-23761de05f06",
       "LEDs"
+    ],
+    [
+      "0e317785-293c-45b1-bb2c-abd1f6f849ee",
+      "Voltage booster"
     ]
   ],
   "text_variables": {},
