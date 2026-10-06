@@ -3463,6 +3463,164 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "223cbe04-3f21-42dc-8494-587b3fe30881")
+		(at 246.005 150.005)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R6"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "58668f1f-dccc-4144-adfe-32db567c196b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "5Ω"
+			(at 0 1.43 0)
+			(layer "F.Fab")
+			(uuid "e606537b-b612-4948-a0cb-a79f4b8dc292")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27f04473-284d-43c8-b61c-465733edfe70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "351ff320-8cad-470f-8661-210c7a3961b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d481150b-d874-4aa8-b3d4-b2456a0afe9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/8820b80f-7246-405a-908a-23761de05f06/0e317785-293c-45b1-bb2c-abd1f6f849ee/7ed472a8-c3b5-46b0-ac7e-75507b0d73b5")
+		(sheetname "/LEDs/Voltage booster/")
+		(sheetfile "_voltage_booster.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.237258 -0.5225)
+			(end 0.237258 -0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d7a0a75f-ca2e-417c-9cfd-f95b013e5d83")
+		)
+		(fp_line
+			(start -0.237258 0.5225)
+			(end 0.237258 0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d9c74716-f298-4012-91b4-fc07d9b9d3f3")
+		)
+		(fp_rect
+			(start -1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "6cdc8851-636f-4b22-890c-73a55ab0fb1a")
+		)
+		(fp_rect
+			(start -0.8 -0.4125)
+			(end 0.8 0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "4fc05895-4598-4897-b944-151c94418d6b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0333a2f1-6998-44c4-81e3-514b370e9a65")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(U2-V_{OUT})")
+			(pintype "passive")
+			(uuid "2cffd807-a1ba-4ceb-84e3-0b9829cf5e2a")
+		)
+		(pad "2" smd roundrect
+			(at 0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+5V")
+			(pintype "passive")
+			(uuid "49c18eea-c7c7-413d-ade4-d40a7246837e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "ScottoKeebs_MCU:Nice_Nano_V2"
 		(layer "F.Cu")
 		(uuid "265ea575-51a1-46de-bfc1-ef0af4ffb8a9")
@@ -4579,7 +4737,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "+3.7V")
+			(net "+3.7_{Battery}")
 			(pinfunction "B+_24")
 			(pintype "input")
 			(uuid "89b3441e-7dad-4e79-a8e2-fbaacbb6c14f")
@@ -10522,7 +10680,7 @@
 				)
 			)
 		)
-		(property "Value" "180kΩ"
+		(property "Value" "184kΩ"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "9229a89f-8041-45a4-9358-0f37563aa05a")
@@ -10637,7 +10795,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "Net-(U2-V_{OUT})")
 			(pintype "passive")
 			(uuid "0621b2da-1f01-46b5-9715-79ece12343b2")
 		)
@@ -11338,6 +11496,164 @@
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Hotswap.3dshapes/Hotswap_MX.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "45a166b7-12d6-4db5-95a9-dd416e3675a3")
+		(at 246.005 157.025)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R5"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "f76fa8ee-6cb9-4376-86f1-25a9918c18be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1kΩ"
+			(at 0 1.43 0)
+			(layer "F.Fab")
+			(uuid "b52cf29b-2af5-42c8-865a-b1a16754eca0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f40a6a6-8d9c-4430-a4c0-df637eafd5ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8d3668b-8a99-483a-906a-7f41afd55456")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3c32138c-c4ed-4aba-92f2-b9504333d33b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/8820b80f-7246-405a-908a-23761de05f06/1f43fb07-1088-441c-b26d-e5c1db0676bc")
+		(sheetname "/LEDs/")
+		(sheetfile "_leds.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.237258 -0.5225)
+			(end 0.237258 -0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bd4f146a-da82-425d-a941-7dcb2e82612e")
+		)
+		(fp_line
+			(start -0.237258 0.5225)
+			(end 0.237258 0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "778dbcb3-a8af-4e9f-a834-43ede404b84b")
+		)
+		(fp_rect
+			(start -1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "871e2f85-e9aa-408a-91b7-636a74d24ecf")
+		)
+		(fp_rect
+			(start -0.8 -0.4125)
+			(end 0.8 0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "86a0e12b-cc28-4657-9aa0-dca766795e8c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3f14cebc-68ec-4b71-b69f-b7004743a12d")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+5V_{LED}")
+			(pintype "passive")
+			(uuid "8caf7129-0cb0-490d-ad2b-5c65be5fa36b")
+		)
+		(pad "2" smd roundrect
+			(at 0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+5V")
+			(pintype "passive")
+			(uuid "ec7dca8d-a718-4a38-9c34-7e1dd68284cc")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15716,6 +16032,164 @@
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Hotswap.3dshapes/Hotswap_MX.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "705e5d1d-857b-4dee-9711-e474c577d9bd")
+		(at 246.005 152.515)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R7"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "89692f9d-7b65-4f6e-9ed0-051eb623881e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "5MΩ"
+			(at 0 1.43 0)
+			(layer "F.Fab")
+			(uuid "a2aeffb3-72e9-4c0b-8bff-97559f91c668")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7001334-fa62-4991-a774-b5c88a172ba9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caebdfcd-c1b8-4393-a2ff-a78cd2b0f8fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "56aca0c5-2553-44e9-ae8c-460a1fb27605")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/8820b80f-7246-405a-908a-23761de05f06/0e317785-293c-45b1-bb2c-abd1f6f849ee/98fad874-ac16-47a1-b842-6a0c269d8d92")
+		(sheetname "/LEDs/Voltage booster/")
+		(sheetfile "_voltage_booster.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.237258 -0.5225)
+			(end 0.237258 -0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "04044100-232c-42d1-8f82-26a7a549960f")
+		)
+		(fp_line
+			(start -0.237258 0.5225)
+			(end 0.237258 0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cfbda6c0-97da-4a33-91e8-5dbbf0559427")
+		)
+		(fp_rect
+			(start -1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "4fa6f5e3-280b-4ae2-8cb2-6a102ca08488")
+		)
+		(fp_rect
+			(start -0.8 -0.4125)
+			(end 0.8 0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "35771ea6-714f-43a7-aec5-8dd59362308b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6e5682f1-38dd-4390-8626-fdc72c69d4c0")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+3.7_{Battery}")
+			(pintype "passive")
+			(uuid "560c1147-2a0c-4410-9182-0c2023cab5ad")
+		)
+		(pad "2" smd roundrect
+			(at 0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(U2-EN)")
+			(pintype "passive")
+			(uuid "7799fe55-25f6-4920-b760-749750835aa7")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25864,7 +26338,7 @@
 		(property "Reference" "S6"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "5ef8554d-c74d-4264-98f1-8d84f00d48ac")
+			(uuid "c063f0a2-c0ff-4933-b913-c294ba89b5ab")
 			(effects
 				(font
 					(size 1 1)
@@ -25875,7 +26349,7 @@
 		(property "Value" "~"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "387a2cc5-0031-4831-a97f-8d1695abce2e")
+			(uuid "61241ec0-2d19-43dc-8117-ce010f44b9cd")
 			(effects
 				(font
 					(size 1 1)
@@ -25887,7 +26361,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b186a33d-d6f3-4196-8ab7-0720259883a3")
+			(uuid "5b0143d5-aae0-495f-90b4-037b1d359e3d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25898,7 +26372,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "74e9b12c-43c3-4c13-b3da-86c0a7e254dc")
+			(uuid "79ae998f-41c1-4559-9e66-32da0485afdf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30848,7 +31322,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "+5V")
 			(pintype "passive")
 			(uuid "65976d66-5be0-4dff-bfc8-73ea5cccccb5")
 		)
@@ -32157,7 +32631,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "Net-(U2-V_{OUT})")
 			(pintype "passive")
 			(uuid "1a161846-10f3-4dd6-b80f-af46b1405205")
 		)
@@ -36061,7 +36535,7 @@
 			(size 1.25 2.65)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2)
-			(net "+3.3V_{Nano}")
+			(net "Net-(U2-EN)")
 			(pintype "passive")
 			(uuid "078d5deb-780e-4115-ae88-93823320eaef")
 		)
@@ -36090,7 +36564,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "e2e53e1d-b8c8-47a3-8fb3-2ddcbd5ec3c4")
-		(at 255.5 137.5)
+		(at 255.6125 137.05)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
@@ -36401,7 +36875,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+3.3V_{Nano}")
+			(net "Net-(U2-EN)")
 			(pinfunction "EN_3")
 			(pintype "input")
 			(uuid "9b5e759a-010e-4b8d-8bf6-2a615d7130b8")
@@ -36421,7 +36895,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "Net-(U2-V_{OUT})")
 			(pinfunction "V_{OUT}_5")
 			(pintype "power_out")
 			(uuid "a29b6642-c3f8-419b-96cb-915994919d08")
@@ -36431,7 +36905,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+3.3V_{Nano}")
+			(net "Net-(U2-EN)")
 			(pinfunction "V_{IN}_6")
 			(pintype "power_in")
 			(uuid "621ca595-29d8-4589-adad-73ab12c000a7")
@@ -37296,7 +37770,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "ee86de53-b54e-4d5b-81c0-7ed58a83641a")
-		(at 266.6125 139.8)
+		(at 255.6375 143.3)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
@@ -37310,7 +37784,7 @@
 				)
 			)
 		)
-		(property "Value" "TXU0101DBVR"
+		(property "Value" "TXU0101DBV"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "0c472e38-a27c-4389-af28-f2dedd2ac2f1")
@@ -37617,7 +38091,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/LEDs/Voltage booster/D_{5V}")
+			(net "/LEDs/Voltage booster/5V_{INPUT}")
 			(pinfunction "B_4")
 			(pintype "bidirectional")
 			(uuid "bcd8ede7-54d5-4895-afda-35f68f023ff6")
@@ -37627,7 +38101,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/LEDs/Voltage booster/D_{5V}")
+			(net "+3.3V_{Nano}")
 			(pinfunction "OE_5")
 			(pintype "input")
 			(uuid "56d1b05f-c8b3-43d9-8cd9-68f740b26f33")
@@ -37637,7 +38111,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "+5V")
 			(pinfunction "V_{CCB}_6")
 			(pintype "power_in")
 			(uuid "54917fc7-ff48-4fcb-adc7-0908f90eaaff")
@@ -38473,7 +38947,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+3.3V_{Nano}")
+			(net "+3.7_{Battery}")
 			(pintype "passive")
 			(uuid "5b359a7c-8bd0-4510-b4c6-07099d40a152")
 		)
@@ -38516,7 +38990,7 @@
 				)
 			)
 		)
-		(property "Value" "100µF"
+		(property "Value" "1µF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "8b8c203e-23d4-41e9-b634-e6d1a4537b31")
@@ -38631,7 +39105,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "+5V_{LED}")
+			(net "Net-(U2-V_{OUT})")
 			(pintype "passive")
 			(uuid "a79f4216-1b7e-4fd0-8507-4e91ee25eb6a")
 		)
@@ -46456,7 +46930,7 @@
 			(at -0.75 -2.075 80.8)
 			(size 0.9 1.25)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(net "+3.7V")
+			(net "+3.7_{Battery}")
 			(pinfunction "2_2")
 			(pintype "passive")
 			(uuid "dfec0dcd-a2a4-4f25-8901-427eb16a5a86")
@@ -65664,7 +66138,7 @@
 			(size 0.8 0.95)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
-			(net "/LEDs/Voltage booster/D_{5V}")
+			(net "/LEDs/Voltage booster/5V_{INPUT}")
 			(pintype "passive")
 			(uuid "407b7049-0b19-42b1-b608-973766f71edc")
 		)

@@ -586,6 +586,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+5V"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:Earth"
 			(power global)
 			(pin_numbers
@@ -2543,7 +2682,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 50.8) (xy 237.49 50.8)
+			(xy 242.57 50.8) (xy 245.11 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3081,9 +3220,9 @@
 		)
 		(uuid "feb3d03d-617b-4146-8275-7b44203a3e03")
 	)
-	(hierarchical_label "D_{IN}"
+	(hierarchical_label "LED_{IN}"
 		(shape input)
-		(at 237.49 50.8 0)
+		(at 245.11 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3092,7 +3231,7 @@
 		)
 		(uuid "5aacaa8f-7252-471c-8875-6d298337b44f")
 	)
-	(hierarchical_label "D_{OUT}"
+	(hierarchical_label "LED_{OUT}"
 		(shape output)
 		(at 220.98 317.5 0)
 		(effects
@@ -5145,6 +5284,85 @@
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8820b80f-7246-405a-908a-23761de05f06"
 					(reference "LED40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 248.92 59.69 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1f43fb07-1088-441c-b26d-e5c1db0676bc")
+		(property "Reference" "R5"
+			(at 248.92 54.61 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "200Ω"
+			(at 248.92 57.15 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 248.92 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 248.92 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "743bc1b7-e25f-4b10-9d23-2192011d47d4")
+		)
+		(pin "1"
+			(uuid "7f5d105c-33ec-45b5-aa36-8d373305d252")
+		)
+		(instances
+			(project "0_Castor"
+				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8820b80f-7246-405a-908a-23761de05f06"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -9741,6 +9959,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDD")
+		(at 246.38 59.69 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77896996-6d42-40ce-a9ba-08a1e868eb83")
+		(property "Reference" "#PWR0117"
+			(at 250.19 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V_{LED}"
+			(at 242.57 59.6899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 246.38 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 246.38 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 246.38 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "deda1991-71e7-4ecb-8eb6-f62f023fdfa3")
+		)
+		(instances
+			(project "0_Castor"
+				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8820b80f-7246-405a-908a-23761de05f06"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI-E")
 		(at 63.5 203.2 180)
 		(unit 1)
@@ -10209,6 +10506,83 @@
 			(project "0_Castor"
 				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8820b80f-7246-405a-908a-23761de05f06"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 251.46 59.69 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7b7b187b-3eac-4696-adc5-62abaa2dcee7")
+		(property "Reference" "#PWR0109"
+			(at 247.65 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 256.54 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 251.46 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e8682c6d-41ab-4aa5-af3b-bb0959cfc686")
+		)
+		(instances
+			(project "0_Castor"
+				(path "/6a22142a-0a1c-422a-8fa2-3ae5d7a30893/8820b80f-7246-405a-908a-23761de05f06"
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -18109,7 +18483,7 @@
 	)
 	(sheet
 		(at 222.25 48.26)
-		(size 12.7 5.08)
+		(size 20.32 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18146,24 +18520,24 @@
 				(justify left top)
 			)
 		)
-		(pin "D_{3.3V}" input
-			(at 234.95 50.8 0)
-			(uuid "5a8383c8-71a3-4903-81fa-42b67562364e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "D_{5V}" input
+		(pin "5V_{INPUT}" input
 			(at 222.25 50.8 180)
-			(uuid "20c14e3c-6201-463d-91bd-f66613438cb6")
+			(uuid "a8bd1d20-e51b-4a4f-8dad-eb5915e073bc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "3.3V_{INPUT}" input
+			(at 242.57 50.8 0)
+			(uuid "1787b712-c1e4-49f8-8c38-0699adb44feb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
