@@ -685,14 +685,6 @@
     [
       "8c33f09c-8518-4bc4-a9c3-db01e82ba4b2",
       "Keyswitches"
-    ],
-    [
-      "8820b80f-7246-405a-908a-23761de05f06",
-      "LEDs"
-    ],
-    [
-      "0e317785-293c-45b1-bb2c-abd1f6f849ee",
-      "Voltage booster"
     ]
   ],
   "text_variables": {},
