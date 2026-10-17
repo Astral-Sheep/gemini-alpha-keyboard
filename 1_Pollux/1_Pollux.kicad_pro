@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber_pollux",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -661,7 +661,7 @@
         "uuid": "eb51cb59-540d-4c16-9fcb-6b5c7359d5ae"
       }
     ],
-    "used_designators": "U1,D1-49,#PWR1-116,J1,SW1-3,C1-51,LED1-51,S1-49,R1-2",
+    "used_designators": "U1,D1-49,#PWR1-117,J1,SW1-3,C1-51,LED1-51,S1-49,R1-2",
     "variants": []
   },
   "sheets": [
@@ -672,10 +672,6 @@
     [
       "bbd80859-f7c6-4bbb-8d9b-870e1e7d8cff",
       "Keyswitches"
-    ],
-    [
-      "8a52dc0b-4261-4f2a-a1d4-68be93de38f3",
-      "LEDs"
     ]
   ],
   "text_variables": {},
