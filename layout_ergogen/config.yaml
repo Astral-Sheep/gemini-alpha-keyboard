@@ -1,0 +1,511 @@
+meta:
+  engine: 4.1.0
+  version: 0.3.12
+  author: Astral_Sheep
+  name: Gemini Alpha
+
+units:
+  case_border: 6
+  switch_size: U
+  keycap_size: cx
+
+points:
+  key:
+    spread: switch_size
+    padding: switch_size
+    tags:
+    - key
+
+  zones:
+    ### ===== LEFT PART ===== ###
+    l_matrix:
+      anchor:
+        shift: [120, -160] # Fix KiCad placement
+      columns:
+        pinky.key.column_net: P022
+        ring.key:
+          stagger: 0.5 * switch_size
+          column_net: P024
+        middle.key:
+          stagger: 0.4 * switch_size
+          column_net: P100
+        index.key:
+          stagger: -0.3 * switch_size
+          column_net: P011
+        inner.key.column_net: P104
+      rows:
+        bottom.row_net: P113
+        home.row_net: P115
+        top.row_net: P002
+        alpha.row_net: P029
+        fn.row_net: P031
+    l_outer:
+      anchor:
+        ref: l_matrix_pinky_bottom
+        shift: [-1.5 * switch_size, 0]
+      columns:
+        left:
+          key:
+            width: keycap_size + switch_size
+            column_net: P017
+            tags:
+              - 2x
+          rows.alpha.width: keycap_size
+        right:
+          key:
+            skip: true
+            column_net: P020
+          rows.alpha.skip: false
+      rows:
+        bottom.row_net: P113
+        home.row_net: P115
+        top.row_net: P002
+        alpha:
+          shift: [-0.5 * switch_size, 0]
+          row_net: P029
+          tags:
+            - key
+        fn:
+          shift: [0.5 * switch_size, 0]
+          row_net: P031
+    l_mods:
+      anchor:
+        ref: l_outer_left_bottom
+        shift: [-0.5 * switch_size, -switch_size]
+      key.row_net: P111
+      columns:
+        outer0.key.column_net: P017
+        outer1.key.column_net: P020
+        pinky.key.column_net: P022
+        ring.key:
+          stagger: 0.5 * switch_size
+          column_net: P024
+        spc.key:
+            stagger: 0.1 * switch_size
+            width: keycap_size + 2 * switch_size
+            shift: [switch_size, 0]
+            column_net: P011
+            tags:
+              - 3x
+    l_navigation:
+      anchor:
+        ref: l_mods_spc
+        shift: [-switch_size * 1.5 + 1.5, -2.05 * switch_size]
+        rotate: -15
+      columns:
+        left.key.column_net: P100
+        middle.key.column_net: P011
+        right.key.column_net: P104
+      rows:
+        down.row_net: P009
+        up.row_net: P010
+    l_space_bar_extension:
+      anchor:
+        ref: l_mods_spc
+        shift: [-switch_size, 0.5375 * switch_size]
+      key:
+        height: 0.5 * keycap_size
+        tags:
+          - helper
+          - 0_5y
+    l_corne_screw_0:
+      anchor:
+        aggregate.parts:
+          - ref: l_outer_left_fn
+          - ref: l_outer_left_fn
+          - ref: l_outer_left_alpha
+          - ref: l_outer_right_alpha
+      key.tags:
+        - helper
+        - corne_screw
+    l_corne_screw_1:
+      anchor:
+        aggregate.parts:
+          - ref: l_mods_outer0
+          - ref: l_mods_outer1
+          - ref: l_outer_left_bottom
+          - ref: l_outer_left_bottom
+      key.tags:
+        - helper
+        - corne_screw
+    l_corne_screw_2:
+      anchor:
+        aggregate.parts:
+          - ref: l_mods_pinky
+          - ref: l_mods_ring
+          - ref: l_navigation_left_up
+          - ref: l_navigation_left_down
+        shift: [-2, -1]
+      key.tags:
+        - helper
+        - corne_screw
+    l_corne_screw_3:
+      anchor:
+        aggregate.parts:
+          - ref: l_mods_spc
+          - ref: l_navigation_right_up
+        shift: [10, 1.25]
+      key.tags:
+        - helper
+        - corne_screw
+    l_corne_screw_4:
+      anchor:
+        aggregate.parts:
+          - ref: l_matrix_inner_fn
+          - ref: l_matrix_index_fn
+          - ref: l_matrix_inner_alpha
+          - ref: l_matrix_index_alpha
+      key.tags:
+        - helper
+        - corne_screw
+    l_corne_screw_5:
+      anchor:
+        aggregate.parts:
+          - ref: l_matrix_middle_home
+          - ref: l_matrix_ring_home
+          - ref: l_matrix_middle_top
+          - ref: l_matrix_ring_top
+        shift: [-2.5, -0.2 * switch_size]
+      key.tags:
+        - helper
+        - corne_screw
+    
+    ### ===== RIGHT PART ===== ###
+    r_matrix:
+      anchor:
+        ref: l_matrix_inner_bottom
+        shift: [1.5 * switch_size, 0]
+      columns:
+        inner.key.column_net: P106
+        index.key.column_net: P104
+        middle.key:
+          stagger: 0.3 * switch_size
+          column_net: P011
+        ring.key:
+          stagger: -0.4 * switch_size
+          column_net: P100
+        pinky.key:
+          stagger: -0.5 * switch_size
+          column_net: P024
+        outer0.key.column_net: P022
+        outer1:
+          key.column_net: P020
+          rows:
+            bottom:
+              width: keycap_size + switch_size
+              shift: [0.5 * switch_size, 0]
+              tags:
+                - 2x
+            home.shift: [-0.5 * switch_size, 0]
+      rows:
+        bottom.row_net: P113
+        home.row_net: P115
+        top.row_net: P002
+        alpha.row_net: P029
+        fn.row_net: P031
+    r_outer:
+      anchor:
+        ref: r_matrix_outer1_bottom
+        shift: [0.5 * switch_size, switch_size]
+      rows:
+        enter:
+          height: keycap_size + switch_size
+          padding: 1.5 * switch_size
+          shift: [0, 0.5 * switch_size]
+          row_net: P002
+          tags:
+            - 2y
+        alpha.row_net: P029
+        fn.row_net: P031
+    r_mods:
+      anchor:
+        ref: r_matrix_inner_bottom
+        shift: [0, -switch_size]
+      key.row_net: P111
+      columns:
+        spc.key:
+          width: keycap_size + 2 * switch_size
+          shift: [switch_size, 0]
+          column_net: P104
+          tags:
+            - 3x
+        ring.key:
+          spread: 3 * switch_size
+          stagger: -0.1 * switch_size
+          column_net: P100
+        pinky.key:
+          stagger: -0.5 * switch_size
+          column_net: P024
+        outer0.key.column_net: P022
+        outer1.key.column_net: P020
+    r_navigation:
+      anchor:
+        ref: r_mods_spc
+        shift: [-0.5 * switch_size - 0.25, -2.5 * switch_size - 1.25]
+        rotate: 15
+      columns:
+        left.key.column_net: P106
+        middle.key.column_net: P104
+        right.key.column_net: P011
+      rows:
+        down.row_net: P009
+        up.row_net: P010
+    r_space_bar_extension:
+      anchor:
+        ref: r_mods_spc
+        shift: [switch_size, 0.5375 * switch_size]
+      key:
+        height: 0.5 * keycap_size
+        tags:
+          - 0_5y
+    r_corne_screw_0:
+      anchor:
+        aggregate.parts:
+          - ref: r_matrix_inner_fn
+          - ref: r_matrix_index_fn
+          - ref: r_matrix_inner_alpha
+          - ref: r_matrix_index_alpha
+      key.tags:
+        - helper
+        - corne_screw
+    r_corne_screw_1:
+      anchor:
+        aggregate.parts:
+          - ref: r_matrix_ring_top
+          - ref: r_matrix_ring_home
+          - ref: r_matrix_pinky_top
+        shift: [0.5, 1]
+      key.tags:
+        - helper
+        - corne_screw
+    r_corne_screw_2:
+      anchor:
+        aggregate.parts:
+          - ref: r_matrix_outer1_fn
+          - ref: r_matrix_outer1_alpha
+        shift: [0.5u, 0]
+      key.tags:
+        - helper
+        - corne_screw
+    r_corne_screw_3:
+      anchor:
+        aggregate.parts:
+          - ref: r_mods_spc
+          - ref: r_navigation_left_up
+        shift: [-10, 1.25]
+      key.tags:
+        - helper
+        - corne_screw
+    r_corne_screw_4:
+      anchor:
+        aggregate.parts:
+          - ref: r_mods_pinky
+          - ref: r_mods_ring
+          - ref: r_navigation_right_up
+          - ref: r_navigation_right_down
+        shift: [2, -1]
+      key.tags:
+        - helper
+        - corne_screw
+    r_corne_screw_5:
+      anchor:
+        aggregate.parts:
+          - ref: r_mods_outer0
+          - ref: r_mods_outer1
+        shift: [0, 0.5u]
+      key.tags:
+        - helper
+        - corne_screw
+
+outlines:
+  _l_keycaps:
+    - what: rectangle
+      where:
+        - [/^l_.*/, key]
+      size: keycap_size
+    - what: rectangle
+      where:
+        - [/^l_.*/, 2x]
+      size: [keycap_size + switch_size, keycap_size]
+    - what: rectangle
+      where:
+        - [/^l_.*/, 3x]
+      size: [keycap_size + 2 * switch_size, keycap_size]
+    - what: rectangle
+      where:
+        - [/^l_.*/, 0_5y]
+      size: [keycap_size, keycap_size * 0.5]
+  l_corne:
+    - what: rectangle
+      where:
+        - [/^l_.*/, key]
+      size: keycap_size + case_border
+    - what: rectangle
+      where:
+        - [/^l_.*/, 2x]
+      size: [keycap_size + switch_size + case_border, keycap_size + case_border]
+    - what: rectangle
+      where:
+        - [/^l_.*/, 3x]
+      size: [keycap_size + 2 * switch_size + case_border, keycap_size + case_border]
+    - what: rectangle
+      where:
+        - [/^l_.*/, 0_5y]
+      size: [keycap_size + case_border, keycap_size * 0.5 + case_border]
+    - what: polygon
+      points:
+        - ref: l_mods_pinky
+          shift: [0, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: l_mods_pinky
+          shift: [0.5 * keycap_size + 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: l_navigation_left_down
+          shift: [-0.5 * keycap_size - 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: l_navigation_left_down
+          shift: [0, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: l_navigation_left_up
+          shift: [0, 0.5 * keycap_size]
+        - ref: l_navigation_left_up
+          shift: [-0.5 * keycap_size, 0.5 * keycap_size]
+        - ref: l_mods_pinky
+    - what: polygon
+      points:
+        - ref: l_mods_spc
+          shift: [-(2 * switch_size + keycap_size) * 0.5, 0]
+        - ref: l_mods_spc
+          shift: [(2 * switch_size + keycap_size) * 0.5 + 0.5 * case_border, 0]
+        - ref: l_mods_spc
+          shift: [(2 * switch_size + keycap_size) * 0.5 + 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: l_navigation_right_up
+          shift: [0.5 * keycap_size + 0.5 * case_border, 0.5 * keycap_size + 0.5 * case_border]
+        - ref: l_navigation_right_up
+          shift: [0.5 * keycap_size + 0.5 * case_border, 0]
+        - ref: l_navigation_left_up
+          shift: [-0.5 * keycap_size, 0]
+  _l_corne_screws:
+    - what: circle
+      where:
+        - [/^l_.*/, corne_screw]
+      radius: 4.3 / 2
+  _l_key_cutouts:
+    - what: outline
+      name: l_corne
+    - what: outline
+      name: _l_keycaps
+      operation: subtract
+  left_preview:
+    - what: outline
+      name: l_corne
+      fillet: 2
+    - what: outline
+      name: _l_keycaps
+      fillet: 2
+      operation: stack
+    - what: outline
+      name: _l_corne_screws
+      operation: stack
+  
+  _r_keycaps:
+    - what: rectangle
+      where:
+        - [/^r_.*/, key]
+      size: keycap_size
+    - what: rectangle
+      where:
+        - [/^r_.*/, 2x]
+      size: [keycap_size + switch_size, keycap_size]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 3x]
+      size: [keycap_size + 2 * switch_size, keycap_size]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 0_5y]
+      size: [keycap_size, 0.5 * keycap_size]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 2y]
+      size: [keycap_size, keycap_size + switch_size]
+  r_corne:
+    - what: rectangle
+      where:
+        - [/^r_.*/, key]
+      size: keycap_size + case_border
+    - what: rectangle
+      where:
+        - [/^r_.*/, 2x]
+      size: [keycap_size + switch_size + case_border, keycap_size + case_border]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 3x]
+      size: [keycap_size + 2 * switch_size + case_border, keycap_size + case_border]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 0_5y]
+      size: [keycap_size + case_border, 0.5 * keycap_size + case_border]
+    - what: rectangle
+      where:
+        - [/^r_.*/, 2y]
+      size: [keycap_size + case_border, keycap_size + switch_size + case_border]
+    - what: polygon
+      points:
+        - ref: r_mods_pinky
+          shift: [0, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: r_mods_pinky
+          shift: [-0.5 * keycap_size - 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: r_navigation_right_down
+          shift: [0.5 * keycap_size + 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: r_navigation_right_down
+          shift: [0, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: r_navigation_right_up
+          shift: [0, 0.5 * keycap_size]
+        - ref: r_navigation_right_up
+          shift: [0.5 * keycap_size, 0.5 * keycap_size]
+        - ref: r_mods_pinky
+    - what: polygon
+      points:
+        - ref: r_mods_spc
+          shift: [(2 * switch_size + keycap_size) * 0.5, 0]
+        - ref: r_mods_spc
+          shift: [-(2 * switch_size + keycap_size) * 0.5 - 0.5 * case_border, 0]
+        - ref: r_mods_spc
+          shift: [-(2 * switch_size + keycap_size) * 0.5 - 0.5 * case_border, -0.5 * keycap_size - 0.5 * case_border]
+        - ref: r_navigation_left_up
+          shift: [-0.5 * keycap_size - 0.5 * case_border, 0.5 * keycap_size + 0.5 * case_border]
+        - ref: r_navigation_left_up
+          shift: [-0.5 * keycap_size - 0.5 * case_border, 0]
+        - ref: r_navigation_right_up
+          shift: [0.5 * keycap_size, 0]
+  _r_corne_screws:
+    - what: circle
+      where:
+        - [/^r_.*/, corne_screw]
+      radius: 4.3 / 2
+  _r_key_cutouts:
+    - what: outline
+      name: r_corne
+    - what: outline
+      name: _r_keycaps
+      operation: subtract
+  right_preview:
+    - what: outline
+      name: r_corne
+      fillet: 2
+    - what: outline
+      name: _r_keycaps
+      operation: stack
+      fillet: 2
+    - what: outline
+      name: _r_corne_screws
+      operation: stack
+
+  preview:
+    - what: outline
+      name: left_preview
+    - what: outline
+      name: right_preview
+
+cases:
+  left_plate:
+    outline: _l_key_cutouts
+  right_plate:
+    outline: _r_key_cutouts
