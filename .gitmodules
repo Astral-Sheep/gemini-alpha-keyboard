@@ -1,3 +1,3 @@
 [submodule "gemini-alpha-module"]
 	path = firmware_zmk
-	url = git@github-perso:Astral-Sheep/gemini-alpha-module.git
+	url = git@github.com:Astral-Sheep/gemini-alpha-module.git
